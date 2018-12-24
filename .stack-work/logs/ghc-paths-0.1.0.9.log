@@ -1,0 +1,33 @@
+[1 of 2] Compiling Main             ( /private/var/folders/5r/lbfw3p9117lcgg84pd851jzm0000gn/T/stack-681173ad4c6a22b5/ghc-paths-0.1.0.9/Setup.hs, /private/var/folders/5r/lbfw3p9117lcgg84pd851jzm0000gn/T/stack-681173ad4c6a22b5/ghc-paths-0.1.0.9/.stack-work/dist/x86_64-osx/Cabal-2.2.0.1/setup/Main.o )
+
+/private/var/folders/5r/lbfw3p9117lcgg84pd851jzm0000gn/T/stack-681173ad4c6a22b5/ghc-paths-0.1.0.9/Setup.hs:29:18: warning: [-Wdeprecations]
+    In the use of ‘rawSystemProgramStdoutConf’
+    (imported from Distribution.Simple.Program):
+    Deprecated: "use getDbProgramOutput instead. This symbol will be removed in Cabal-3.0 (est. Oct 2018)."
+   |
+29 |       libdir_ <- rawSystemProgramStdoutConf (fromFlag (configVerbosity flags))
+   |                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2 of 2] Compiling StackSetupShim   ( /Users/masa/.stack/setup-exe-src/setup-shim-mPHDZzAJ.hs, /private/var/folders/5r/lbfw3p9117lcgg84pd851jzm0000gn/T/stack-681173ad4c6a22b5/ghc-paths-0.1.0.9/.stack-work/dist/x86_64-osx/Cabal-2.2.0.1/setup/StackSetupShim.o )
+Linking /private/var/folders/5r/lbfw3p9117lcgg84pd851jzm0000gn/T/stack-681173ad4c6a22b5/ghc-paths-0.1.0.9/.stack-work/dist/x86_64-osx/Cabal-2.2.0.1/setup/setup ...
+clang: warning: argument unused during compilation: '-nopie' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-nopie' [-Wunused-command-line-argument]
+Configuring ghc-paths-0.1.0.9...
+clang: warning: argument unused during compilation: '-nopie' [-Wunused-command-line-argument]
+Preprocessing library for ghc-paths-0.1.0.9..
+Building library for ghc-paths-0.1.0.9..
+[1 of 1] Compiling GHC.Paths        ( GHC/Paths.hs, .stack-work/dist/x86_64-osx/Cabal-2.2.0.1/build/GHC/Paths.o )
+Preprocessing library for ghc-paths-0.1.0.9..
+Running Haddock on library for ghc-paths-0.1.0.9..
+Haddock coverage:
+   0% (  0 /  5) in 'GHC.Paths'
+  Missing documentation for:
+    Module header
+    ghc (GHC/Paths.hs:7)
+    ghc_pkg (GHC/Paths.hs:7)
+    libdir (GHC/Paths.hs:7)
+    docdir (GHC/Paths.hs:7)
+Documentation created:
+.stack-work/dist/x86_64-osx/Cabal-2.2.0.1/doc/html/ghc-paths/index.html,
+.stack-work/dist/x86_64-osx/Cabal-2.2.0.1/doc/html/ghc-paths/ghc-paths.txt
+Installing library in /Users/masa/.stack/snapshots/x86_64-osx/lts-12.25/8.4.4/lib/x86_64-osx-ghc-8.4.4/ghc-paths-0.1.0.9-BTJEJFO7ixU1hUjA8BfQ4h
+Registering library for ghc-paths-0.1.0.9..

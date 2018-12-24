@@ -1,0 +1,30 @@
+Configuring th-abstraction-0.2.10.0...
+Preprocessing library for th-abstraction-0.2.10.0..
+Building library for th-abstraction-0.2.10.0..
+[1 of 2] Compiling Language.Haskell.TH.Datatype.Internal ( src/Language/Haskell/TH/Datatype/Internal.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Language/Haskell/TH/Datatype/Internal.o )
+[2 of 2] Compiling Language.Haskell.TH.Datatype ( src/Language/Haskell/TH/Datatype.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Language/Haskell/TH/Datatype.o )
+Preprocessing library for th-abstraction-0.2.10.0..
+Running Haddock on library for th-abstraction-0.2.10.0..
+Haddock coverage:
+Warning: 'Strict' is ambiguous. It is defined
+    * at src/Language/Haskell/TH/Datatype.hs:254:5
+    * in ‘Language.Haskell.TH.Syntax’
+    You may be able to disambiguate the identifier by qualifying it or
+    by hiding some imports.
+    Defaulting to 'Strict' defined at src/Language/Haskell/TH/Datatype.hs:251:1
+Warning: 'resolveFixities' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+  92% ( 49 / 53) in 'Language.Haskell.TH.Datatype'
+  Missing documentation for:
+    arrowKCompat (src/Language/Haskell/TH/Datatype.hs:1800)
+    isStrictAnnot (src/Language/Haskell/TH/Datatype.hs:261)
+    notStrictAnnot (src/Language/Haskell/TH/Datatype.hs:261)
+    unpackedAnnot (src/Language/Haskell/TH/Datatype.hs:261)
+Warning: Language.Haskell.TH.Datatype: could not find link destinations for:
+    mergeArguments
+Documentation created:
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/th-abstraction/index.html,
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/th-abstraction/th-abstraction.txt
+Installing library in /Users/masa/.stack/snapshots/x86_64-osx/lts-13.0/8.6.3/lib/x86_64-osx-ghc-8.6.3/th-abstraction-0.2.10.0-IupKYUmBxoGBM1HXci6nJH
+Registering library for th-abstraction-0.2.10.0..

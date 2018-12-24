@@ -1,0 +1,15 @@
+Configuring time-locale-compat-0.1.1.5...
+Preprocessing library for time-locale-compat-0.1.1.5..
+Building library for time-locale-compat-0.1.1.5..
+[1 of 1] Compiling Data.Time.Locale.Compat ( src/Data/Time/Locale/Compat.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/Time/Locale/Compat.o )
+Preprocessing library for time-locale-compat-0.1.1.5..
+Running Haddock on library for time-locale-compat-0.1.1.5..
+Haddock coverage:
+  86% (  6 /  7) in 'Data.Time.Locale.Compat'
+  Missing documentation for:
+    TimeLocale
+Documentation created:
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/time-locale-compat/index.html,
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/time-locale-compat/time-locale-compat.txt
+Installing library in /Users/masa/.stack/snapshots/x86_64-osx/lts-13.0/8.6.3/lib/x86_64-osx-ghc-8.6.3/time-locale-compat-0.1.1.5-4Kz46WDKPmGDmYVdO1w5q7
+Registering library for time-locale-compat-0.1.1.5..

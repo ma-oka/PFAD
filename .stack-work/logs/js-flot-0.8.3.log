@@ -1,0 +1,14 @@
+Configuring js-flot-0.8.3...
+Preprocessing library for js-flot-0.8.3..
+Building library for js-flot-0.8.3..
+[1 of 2] Compiling Paths_js_flot    ( .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/autogen/Paths_js_flot.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Paths_js_flot.o )
+[2 of 2] Compiling Language.Javascript.Flot ( Language/Javascript/Flot.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Language/Javascript/Flot.o )
+Preprocessing library for js-flot-0.8.3..
+Running Haddock on library for js-flot-0.8.3..
+Haddock coverage:
+ 100% (  4 /  4) in 'Language.Javascript.Flot'
+Documentation created:
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/js-flot/index.html,
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/js-flot/js-flot.txt
+Installing library in /Users/masa/.stack/snapshots/x86_64-osx/lts-13.0/8.6.3/lib/x86_64-osx-ghc-8.6.3/js-flot-0.8.3-LF7vQ1kAGl41Nl58RwjSyK
+Registering library for js-flot-0.8.3..

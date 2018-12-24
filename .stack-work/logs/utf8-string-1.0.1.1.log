@@ -1,0 +1,36 @@
+Configuring utf8-string-1.0.1.1...
+Preprocessing library for utf8-string-1.0.1.1..
+Building library for utf8-string-1.0.1.1..
+[1 of 5] Compiling Codec.Binary.UTF8.String ( Codec/Binary/UTF8/String.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Codec/Binary/UTF8/String.o )
+[2 of 5] Compiling Codec.Binary.UTF8.Generic ( Codec/Binary/UTF8/Generic.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Codec/Binary/UTF8/Generic.o )
+[3 of 5] Compiling Data.ByteString.Lazy.UTF8 ( Data/ByteString/Lazy/UTF8.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/ByteString/Lazy/UTF8.o )
+[4 of 5] Compiling Data.ByteString.UTF8 ( Data/ByteString/UTF8.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/ByteString/UTF8.o )
+[5 of 5] Compiling Data.String.UTF8 ( Data/String/UTF8.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/String/UTF8.o )
+Preprocessing library for utf8-string-1.0.1.1..
+Running Haddock on library for utf8-string-1.0.1.1..
+Haddock coverage:
+ 100% (  8 /  8) in 'Codec.Binary.UTF8.String'
+  94% ( 16 / 17) in 'Codec.Binary.UTF8.Generic'
+  Missing documentation for:
+    UTF8Bytes (Codec/Binary/UTF8/Generic.hs:48)
+ 100% ( 17 / 17) in 'Data.ByteString.Lazy.UTF8'
+ 100% ( 17 / 17) in 'Data.ByteString.UTF8'
+Warning: 'replacement_char' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'bytesSplitAt' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'dropBytes' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+  89% ( 24 / 27) in 'Data.String.UTF8'
+  Missing documentation for:
+    UTF8Bytes (Codec/Binary/UTF8/Generic.hs:48)
+    fromRep (Data/String/UTF8.hs:59)
+    toRep (Data/String/UTF8.hs:62)
+Documentation created:
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/utf8-string/index.html,
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/utf8-string/utf8-string.txt
+Installing library in /Users/masa/.stack/snapshots/x86_64-osx/lts-13.0/8.6.3/lib/x86_64-osx-ghc-8.6.3/utf8-string-1.0.1.1-Geq8jdOv4Q3LkcQoEOWDVv
+Registering library for utf8-string-1.0.1.1..

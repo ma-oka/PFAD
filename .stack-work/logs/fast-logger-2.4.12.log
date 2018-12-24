@@ -1,0 +1,43 @@
+Configuring fast-logger-2.4.12...
+Preprocessing library for fast-logger-2.4.12..
+Building library for fast-logger-2.4.12..
+[1 of 9] Compiling System.Log.FastLogger.FileIO ( System/Log/FastLogger/FileIO.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/System/Log/FastLogger/FileIO.o )
+[2 of 9] Compiling System.Log.FastLogger.IORef ( System/Log/FastLogger/IORef.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/System/Log/FastLogger/IORef.o )
+[3 of 9] Compiling System.Log.FastLogger.LogStr ( System/Log/FastLogger/LogStr.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/System/Log/FastLogger/LogStr.o )
+[4 of 9] Compiling System.Log.FastLogger.IO ( System/Log/FastLogger/IO.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/System/Log/FastLogger/IO.o )
+[5 of 9] Compiling System.Log.FastLogger.Logger ( System/Log/FastLogger/Logger.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/System/Log/FastLogger/Logger.o )
+[6 of 9] Compiling System.Log.FastLogger.Types ( System/Log/FastLogger/Types.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/System/Log/FastLogger/Types.o )
+[7 of 9] Compiling System.Log.FastLogger.File ( System/Log/FastLogger/File.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/System/Log/FastLogger/File.o )
+[8 of 9] Compiling System.Log.FastLogger.Date ( System/Log/FastLogger/Date.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/System/Log/FastLogger/Date.o )
+[9 of 9] Compiling System.Log.FastLogger ( System/Log/FastLogger.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/System/Log/FastLogger.o )
+Preprocessing library for fast-logger-2.4.12..
+Running Haddock on library for fast-logger-2.4.12..
+Haddock coverage:
+  50% (  2 /  4) in 'System.Log.FastLogger.Types'
+  Missing documentation for:
+    Module header
+    TimeFormat (System/Log/FastLogger/Types.hs:13)
+Warning: 'on' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'T' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+  83% (  5 /  6) in 'System.Log.FastLogger.File'
+  Missing documentation for:
+    Module header
+ 100% (  5 /  5) in 'System.Log.FastLogger.Date'
+Warning: 'logStr' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'newTimeFastLogger' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+  97% ( 36 / 37) in 'System.Log.FastLogger'
+  Missing documentation for:
+    ToLogStr (System/Log/FastLogger/LogStr.hs:70)
+Documentation created:
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/fast-logger/index.html,
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/fast-logger/fast-logger.txt
+Installing library in /Users/masa/.stack/snapshots/x86_64-osx/lts-13.0/8.6.3/lib/x86_64-osx-ghc-8.6.3/fast-logger-2.4.12-4bHxsWFMv9a4TYzawirHMq
+Registering library for fast-logger-2.4.12..

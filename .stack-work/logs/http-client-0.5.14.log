@@ -1,0 +1,119 @@
+Configuring http-client-0.5.14...
+Preprocessing library for http-client-0.5.14..
+Building library for http-client-0.5.14..
+[ 1 of 19] Compiling Data.KeyedPool   ( Data/KeyedPool.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/KeyedPool.o )
+[ 2 of 19] Compiling Network.HTTP.Client.Types ( Network/HTTP/Client/Types.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Network/HTTP/Client/Types.o )
+[ 3 of 19] Compiling Network.HTTP.Client.Connection ( Network/HTTP/Client/Connection.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Network/HTTP/Client/Connection.o )
+[ 4 of 19] Compiling Network.HTTP.Client.Headers ( Network/HTTP/Client/Headers.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Network/HTTP/Client/Headers.o )
+[ 5 of 19] Compiling Network.HTTP.Client.Body ( Network/HTTP/Client/Body.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Network/HTTP/Client/Body.o )
+[ 6 of 19] Compiling Network.HTTP.Client.Util ( Network/HTTP/Client/Util.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Network/HTTP/Client/Util.o )
+[ 7 of 19] Compiling Network.HTTP.Client.Request ( Network/HTTP/Client/Request.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Network/HTTP/Client/Request.o )
+[ 8 of 19] Compiling Network.HTTP.Client.Response ( Network/HTTP/Client/Response.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Network/HTTP/Client/Response.o )
+[ 9 of 19] Compiling Network.HTTP.Proxy ( Network/HTTP/Proxy.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Network/HTTP/Proxy.o )
+[10 of 19] Compiling Network.HTTP.Client.Manager ( Network/HTTP/Client/Manager.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Network/HTTP/Client/Manager.o )
+[11 of 19] Compiling Network.PublicSuffixList.Types ( publicsuffixlist/Network/PublicSuffixList/Types.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Network/PublicSuffixList/Types.o )
+[12 of 19] Compiling Network.PublicSuffixList.Serialize ( publicsuffixlist/Network/PublicSuffixList/Serialize.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Network/PublicSuffixList/Serialize.o )
+[13 of 19] Compiling Network.PublicSuffixList.DataStructure ( publicsuffixlist/Network/PublicSuffixList/DataStructure.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Network/PublicSuffixList/DataStructure.o )
+[14 of 19] Compiling Network.PublicSuffixList.Lookup ( publicsuffixlist/Network/PublicSuffixList/Lookup.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Network/PublicSuffixList/Lookup.o )
+[15 of 19] Compiling Network.HTTP.Client.Cookies ( Network/HTTP/Client/Cookies.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Network/HTTP/Client/Cookies.o )
+[16 of 19] Compiling Network.HTTP.Client.Core ( Network/HTTP/Client/Core.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Network/HTTP/Client/Core.o )
+[17 of 19] Compiling Network.HTTP.Client.Internal ( Network/HTTP/Client/Internal.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Network/HTTP/Client/Internal.o )
+[18 of 19] Compiling Network.HTTP.Client ( Network/HTTP/Client.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Network/HTTP/Client.o )
+[19 of 19] Compiling Network.HTTP.Client.MultipartFormData ( Network/HTTP/Client/MultipartFormData.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Network/HTTP/Client/MultipartFormData.o )
+Preprocessing library for http-client-0.5.14..
+Running Haddock on library for http-client-0.5.14..
+Haddock coverage:
+Warning: 'parseRequest' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'defaultRequest' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'alwaysDecompress' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'browserDecompress' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'defaultManagerSettings' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'managerProxy' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'PopObserver' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'location' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'Source' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'publicsuffixlistcreate' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'isSuffix' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+  73% ( 96 /131) in 'Network.HTTP.Client.Internal'
+  Missing documentation for:
+    makeChunkedReader (Network/HTTP/Client/Body.hs:145)
+    makeLengthReader (Network/HTTP/Client/Body.hs:122)
+    makeGzipReader (Network/HTTP/Client/Body.hs:83)
+    makeUnlimitedReader (Network/HTTP/Client/Body.hs:114)
+    brEmpty (Network/HTTP/Client/Body.hs:53)
+    constBodyReader (Network/HTTP/Client/Body.hs:56)
+    brAddCleanup (Network/HTTP/Client/Body.hs:64)
+    connectionReadLine (Network/HTTP/Client/Connection.hs:27)
+    connectionReadLineWith (Network/HTTP/Client/Connection.hs:39)
+    openSocketConnection (Network/HTTP/Client/Connection.hs:134)
+    openSocketConnectionSize (Network/HTTP/Client/Connection.hs:141)
+    createCookieJar (Network/HTTP/Client/Cookies.hs:88)
+    destroyCookieJar (Network/HTTP/Client/Cookies.hs:91)
+    removeExistingCookieFromCookieJar (Network/HTTP/Client/Cookies.hs:98)
+    isIpAddress (Network/HTTP/Client/Cookies.hs:38)
+    parseStatusHeaders (Network/HTTP/Client/Headers.hs:30)
+    validateHeaders (Network/HTTP/Client/Headers.hs:107)
+    HeadersValidationResult (Network/HTTP/Client/Headers.hs:103)
+    needsGunzip (Network/HTTP/Client/Request.hs:376)
+    requestBuilder (Network/HTTP/Client/Request.hs:384)
+    getResponse (Network/HTTP/Client/Response.hs:82)
+    getConn (Network/HTTP/Client/Manager.hs:200)
+    Connection (Network/HTTP/Client/Types.hs:71)
+    StatusHeaders (Network/HTTP/Client/Types.hs:85)
+    HttpExceptionContent (Network/HTTP/Client/Types.hs:123)
+    unHttpExceptionContentWrapper (Network/HTTP/Client/Types.hs:95)
+    throwHttp (Network/HTTP/Client/Types.hs:100)
+    toHttpException (Network/HTTP/Client/Types.hs:103)
+    Cookie (Network/HTTP/Client/Types.hs:248)
+    CookieJar (Network/HTTP/Client/Types.hs:263)
+    ResponseClose (Network/HTTP/Client/Types.hs:624)
+    HasHttpManager (Network/HTTP/Client/Types.hs:738)
+    ConnsMap (Network/HTTP/Client/Types.hs:743)
+    NonEmptyList (Network/HTTP/Client/Types.hs:747)
+    readDec (Network/HTTP/Client/Util.hs:10)
+Warning: 'tlsManagerSettings' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+  94% (124 /132) in 'Network.HTTP.Client'
+  Missing documentation for:
+    HasHttpManager (Network/HTTP/Client/Types.hs:738)
+    HttpExceptionContent (Network/HTTP/Client/Types.hs:123)
+    Cookie (Network/HTTP/Client/Types.hs:248)
+    CookieJar (Network/HTTP/Client/Types.hs:263)
+    createCookieJar (Network/HTTP/Client/Cookies.hs:88)
+    destroyCookieJar (Network/HTTP/Client/Cookies.hs:91)
+    removeExistingCookieFromCookieJar (Network/HTTP/Client/Cookies.hs:98)
+    isIpAddress (Network/HTTP/Client/Cookies.hs:38)
+  93% ( 25 / 27) in 'Network.HTTP.Client.MultipartFormData'
+  Missing documentation for:
+    webkitBoundaryPure (Network/HTTP/Client/MultipartFormData.hs:246)
+    renderPart (Network/HTTP/Client/MultipartFormData.hs:211)
+Warning: Network.HTTP.Client.Internal: could not find link destinations for:
+    Managed HttpExceptionContentWrapper KeyedPool
+Documentation created:
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/http-client/index.html,
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/http-client/http-client.txt
+Installing library in /Users/masa/.stack/snapshots/x86_64-osx/lts-13.0/8.6.3/lib/x86_64-osx-ghc-8.6.3/http-client-0.5.14-DdBXOhbxYRJJQWpCgTl7Ep
+Registering library for http-client-0.5.14..

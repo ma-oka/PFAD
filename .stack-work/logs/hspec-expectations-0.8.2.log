@@ -1,0 +1,26 @@
+Configuring hspec-expectations-0.8.2...
+clang: warning: argument unused during compilation: '-nopie' [-Wunused-command-line-argument]
+Preprocessing library for hspec-expectations-0.8.2..
+Building library for hspec-expectations-0.8.2..
+[1 of 4] Compiling Paths_hspec_expectations ( .stack-work/dist/x86_64-osx/Cabal-2.2.0.1/build/autogen/Paths_hspec_expectations.hs, .stack-work/dist/x86_64-osx/Cabal-2.2.0.1/build/Paths_hspec_expectations.o )
+[2 of 4] Compiling Test.Hspec.Expectations.Contrib ( src/Test/Hspec/Expectations/Contrib.hs, .stack-work/dist/x86_64-osx/Cabal-2.2.0.1/build/Test/Hspec/Expectations/Contrib.o )
+[3 of 4] Compiling Test.Hspec.Expectations.Matcher ( src/Test/Hspec/Expectations/Matcher.hs, .stack-work/dist/x86_64-osx/Cabal-2.2.0.1/build/Test/Hspec/Expectations/Matcher.o )
+[4 of 4] Compiling Test.Hspec.Expectations ( src/Test/Hspec/Expectations.hs, .stack-work/dist/x86_64-osx/Cabal-2.2.0.1/build/Test/Hspec/Expectations.o )
+Preprocessing library for hspec-expectations-0.8.2..
+Running Haddock on library for hspec-expectations-0.8.2..
+Haddock coverage:
+ 100% (  5 /  5) in 'Test.Hspec.Expectations.Contrib'
+  77% ( 23 / 30) in 'Test.Hspec.Expectations'
+  Missing documentation for:
+    Expectation (src/Test/Hspec/Expectations.hs:76)
+    expectationFailure (src/Test/Hspec/Expectations.hs:78)
+    anyException (src/Test/Hspec/Expectations.hs:182)
+    anyErrorCall (src/Test/Hspec/Expectations.hs:185)
+    anyIOException (src/Test/Hspec/Expectations.hs:195)
+    anyArithException (src/Test/Hspec/Expectations.hs:198)
+    errorCall (src/Test/Hspec/Expectations.hs:188)
+Documentation created:
+.stack-work/dist/x86_64-osx/Cabal-2.2.0.1/doc/html/hspec-expectations/index.html,
+.stack-work/dist/x86_64-osx/Cabal-2.2.0.1/doc/html/hspec-expectations/hspec-expectations.txt
+Installing library in /Users/masa/.stack/snapshots/x86_64-osx/lts-12.25/8.4.4/lib/x86_64-osx-ghc-8.4.4/hspec-expectations-0.8.2-7lpBAWb1yuYLnEELJ6wtYs
+Registering library for hspec-expectations-0.8.2..

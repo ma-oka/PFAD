@@ -1,0 +1,19 @@
+Configuring wai-3.2.1.2...
+Preprocessing library for wai-3.2.1.2..
+Building library for wai-3.2.1.2..
+[1 of 2] Compiling Network.Wai.Internal ( Network/Wai/Internal.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Network/Wai/Internal.o )
+[2 of 2] Compiling Network.Wai      ( Network/Wai.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Network/Wai.o )
+Preprocessing library for wai-3.2.1.2..
+Running Haddock on library for wai-3.2.1.2..
+Haddock coverage:
+  86% (  6 /  7) in 'Network.Wai.Internal'
+  Missing documentation for:
+    Response (Network/Wai/Internal.hs:114)
+  98% ( 47 / 48) in 'Network.Wai'
+  Missing documentation for:
+    Response (Network/Wai/Internal.hs:114)
+Documentation created:
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/wai/index.html,
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/wai/wai.txt
+Installing library in /Users/masa/.stack/snapshots/x86_64-osx/lts-13.0/8.6.3/lib/x86_64-osx-ghc-8.6.3/wai-3.2.1.2-LNs7WOEQMQT3xDKdSum5mv
+Registering library for wai-3.2.1.2..

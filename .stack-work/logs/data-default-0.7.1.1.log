@@ -1,0 +1,15 @@
+Configuring data-default-0.7.1.1...
+Preprocessing library for data-default-0.7.1.1..
+Building library for data-default-0.7.1.1..
+[1 of 1] Compiling Data.Default     ( Data/Default.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/Default.o )
+Preprocessing library for data-default-0.7.1.1..
+Running Haddock on library for data-default-0.7.1.1..
+Haddock coverage:
+  67% (  2 /  3) in 'Data.Default'
+  Missing documentation for:
+    Module header
+Documentation created:
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/data-default/index.html,
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/data-default/data-default.txt
+Installing library in /Users/masa/.stack/snapshots/x86_64-osx/lts-13.0/8.6.3/lib/x86_64-osx-ghc-8.6.3/data-default-0.7.1.1-LTjBtjLvKGK2UBTHiM9KVF
+Registering library for data-default-0.7.1.1..

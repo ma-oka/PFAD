@@ -1,0 +1,15 @@
+Configuring data-default-instances-containers-0.0.1...
+Preprocessing library for data-default-instances-containers-0.0.1..
+Building library for data-default-instances-containers-0.0.1..
+[1 of 1] Compiling Data.Default.Instances.Containers ( Data/Default/Instances/Containers.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/Default/Instances/Containers.o )
+Preprocessing library for data-default-instances-containers-0.0.1..
+Running Haddock on library for data-default-instances-containers-0.0.1..
+Haddock coverage:
+  50% (  1 /  2) in 'Data.Default.Instances.Containers'
+  Missing documentation for:
+    Module header
+Documentation created:
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/data-default-instances-containers/index.html,
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/data-default-instances-containers/data-default-instances-containers.txt
+Installing library in /Users/masa/.stack/snapshots/x86_64-osx/lts-13.0/8.6.3/lib/x86_64-osx-ghc-8.6.3/data-default-instances-containers-0.0.1-9yvw8HF06tiAXuxm5U8KjO
+Registering library for data-default-instances-containers-0.0.1..

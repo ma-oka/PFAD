@@ -1,0 +1,17 @@
+Configuring async-2.2.1...
+Preprocessing library for async-2.2.1..
+Building library for async-2.2.1..
+[1 of 1] Compiling Control.Concurrent.Async ( Control/Concurrent/Async.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Control/Concurrent/Async.o )
+Preprocessing library for async-2.2.1..
+Running Haddock on library for async-2.2.1..
+Haddock coverage:
+  98% ( 62 / 63) in 'Control.Concurrent.Async'
+  Missing documentation for:
+    ExceptionInLinkedThread (Control/Concurrent/Async.hs:533)
+Warning: Control.Concurrent.Async: could not find link destinations for:
+    linkOnly link2Only
+Documentation created:
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/async/index.html,
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/async/async.txt
+Installing library in /Users/masa/.stack/snapshots/x86_64-osx/lts-13.0/8.6.3/lib/x86_64-osx-ghc-8.6.3/async-2.2.1-4fWSSJ8SFccIxQJVItkRnX
+Registering library for async-2.2.1..

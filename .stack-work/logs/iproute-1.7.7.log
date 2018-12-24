@@ -1,0 +1,88 @@
+Configuring iproute-1.7.7...
+Preprocessing library for iproute-1.7.7..
+Building library for iproute-1.7.7..
+[1 of 8] Compiling Data.IP.Addr     ( Data/IP/Addr.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/IP/Addr.o )
+[2 of 8] Compiling Data.IP.Mask     ( Data/IP/Mask.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/IP/Mask.o )
+[3 of 8] Compiling Data.IP.Range    ( Data/IP/Range.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/IP/Range.o )
+[4 of 8] Compiling Data.IP.Op       ( Data/IP/Op.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/IP/Op.o )
+[5 of 8] Compiling Data.IP.Internal ( Data/IP/Internal.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/IP/Internal.o )
+[6 of 8] Compiling Data.IP          ( Data/IP.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/IP.o )
+[7 of 8] Compiling Data.IP.RouteTable.Internal ( Data/IP/RouteTable/Internal.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/IP/RouteTable/Internal.o )
+[8 of 8] Compiling Data.IP.RouteTable ( Data/IP/RouteTable.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/IP/RouteTable.o )
+Preprocessing library for iproute-1.7.7..
+Running Haddock on library for iproute-1.7.7..
+Haddock coverage:
+Warning: 'IPv4' is ambiguous. It is defined
+    * at Data/IP/Addr.hs:33:11
+    * at Data/IP/Addr.hs:87:1
+    You may be able to disambiguate the identifier by qualifying it or
+    by hiding some imports.
+    Defaulting to 'IPv4' defined at Data/IP/Addr.hs:33:1
+Warning: 'IPv6' is ambiguous. It is defined
+    * at Data/IP/Addr.hs:34:11
+    * at Data/IP/Addr.hs:109:1
+    You may be able to disambiguate the identifier by qualifying it or
+    by hiding some imports.
+    Defaulting to 'IPv6' defined at Data/IP/Addr.hs:33:1
+Warning: 'inet_ntop' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'IPv4' is ambiguous. It is defined
+    * at Data/IP/Addr.hs:33:11
+    * at Data/IP/Addr.hs:87:1
+    You may be able to disambiguate the identifier by qualifying it or
+    by hiding some imports.
+    Defaulting to 'IPv4' defined at Data/IP/Addr.hs:33:1
+Warning: 'IPv6' is ambiguous. It is defined
+    * at Data/IP/Addr.hs:34:11
+    * at Data/IP/Addr.hs:109:1
+    You may be able to disambiguate the identifier by qualifying it or
+    by hiding some imports.
+    Defaulting to 'IPv6' defined at Data/IP/Addr.hs:33:1
+Warning: 'makeAddrRange' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'toMatchedTo' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'unmakeAddrRange' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+  50% (  3 /  6) in 'Data.IP.Internal'
+  Missing documentation for:
+    Module header
+    IPv4Addr (Data/IP/Addr.hs:77)
+    IPv6Addr (Data/IP/Addr.hs:78)
+ 100% ( 30 / 30) in 'Data.IP'
+Warning: 'IPrange' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'toList' is ambiguous. It is defined
+    * in ‘Data.Foldable’
+    * at Data/IP/RouteTable/Internal.hs:335:1
+    You may be able to disambiguate the identifier by qualifying it or
+    by hiding some imports.
+    Defaulting to 'toList' defined at Data/IP/RouteTable/Internal.hs:335:1
+  54% ( 14 / 26) in 'Data.IP.RouteTable.Internal'
+  Missing documentation for:
+    intToTBitIPv4 (Data/IP/RouteTable/Internal.hs:61)
+    intToTBitIPv6 (Data/IP/RouteTable/Internal.hs:64)
+    intToTBitsWord32 (Data/IP/RouteTable/Internal.hs:67)
+    intToTBitsIPv4 (Data/IP/RouteTable/Internal.hs:70)
+    intToTBitsIPv6 (Data/IP/RouteTable/Internal.hs:73)
+    link (Data/IP/RouteTable/Internal.hs:161)
+    glue (Data/IP/RouteTable/Internal.hs:170)
+    keyToTestBit (Data/IP/RouteTable/Internal.hs:177)
+    isLeft (Data/IP/RouteTable/Internal.hs:180)
+    node (Data/IP/RouteTable/Internal.hs:202)
+    search (Data/IP/RouteTable/Internal.hs:249)
+    foldt (Data/IP/RouteTable/Internal.hs:343)
+Warning: 'IPRange' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+ 100% ( 18 / 18) in 'Data.IP.RouteTable'
+Documentation created:
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/iproute/index.html,
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/iproute/iproute.txt
+Installing library in /Users/masa/.stack/snapshots/x86_64-osx/lts-13.0/8.6.3/lib/x86_64-osx-ghc-8.6.3/iproute-1.7.7-4SIcp2oxR0cHOXirSRIkSI
+Registering library for iproute-1.7.7..

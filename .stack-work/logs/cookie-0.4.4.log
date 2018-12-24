@@ -1,0 +1,23 @@
+Configuring cookie-0.4.4...
+Preprocessing library for cookie-0.4.4..
+Building library for cookie-0.4.4..
+[1 of 1] Compiling Web.Cookie       ( Web/Cookie.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Web/Cookie.o )
+Preprocessing library for cookie-0.4.4..
+Running Haddock on library for cookie-0.4.4..
+Haddock coverage:
+  73% ( 24 / 33) in 'Web.Cookie'
+  Missing documentation for:
+    Module header
+    parseSetCookie (Web/Cookie.hs:216)
+    renderSetCookie (Web/Cookie.hs:183)
+    Cookies (Web/Cookie.hs:67)
+    renderCookies (Web/Cookie.hs:100)
+    parseCookiesText (Web/Cookie.hs:58)
+    renderCookiesText (Web/Cookie.hs:64)
+    expiresFormat (Web/Cookie.hs:240)
+    parseCookieExpires (Web/Cookie.hs:248)
+Documentation created:
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/cookie/index.html,
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/cookie/cookie.txt
+Installing library in /Users/masa/.stack/snapshots/x86_64-osx/lts-13.0/8.6.3/lib/x86_64-osx-ghc-8.6.3/cookie-0.4.4-KpjAlIew5oQDgqXiPeQJ63
+Registering library for cookie-0.4.4..

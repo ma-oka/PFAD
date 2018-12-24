@@ -1,0 +1,37 @@
+Configuring ansi-wl-pprint-0.6.8.2...
+clang: warning: argument unused during compilation: '-nopie' [-Wunused-command-line-argument]
+Preprocessing library for ansi-wl-pprint-0.6.8.2..
+Building library for ansi-wl-pprint-0.6.8.2..
+[1 of 2] Compiling Text.PrettyPrint.ANSI.Leijen.Internal ( Text/PrettyPrint/ANSI/Leijen/Internal.hs, .stack-work/dist/x86_64-osx/Cabal-2.2.0.1/build/Text/PrettyPrint/ANSI/Leijen/Internal.o )
+[2 of 2] Compiling Text.PrettyPrint.ANSI.Leijen ( Text/PrettyPrint/ANSI/Leijen.hs, .stack-work/dist/x86_64-osx/Cabal-2.2.0.1/build/Text/PrettyPrint/ANSI/Leijen.o )
+Preprocessing library for ansi-wl-pprint-0.6.8.2..
+Running Haddock on library for ansi-wl-pprint-0.6.8.2..
+Haddock coverage:
+  89% (117 /132) in 'Text.PrettyPrint.ANSI.Leijen.Internal'
+  Missing documentation for:
+    fold (Text/PrettyPrint/ANSI/Leijen/Internal.hs:221)
+    width (Text/PrettyPrint/ANSI/Leijen/Internal.hs:516)
+    beside (Text/PrettyPrint/ANSI/Leijen/Internal.hs:701)
+    column (Text/PrettyPrint/ANSI/Leijen/Internal.hs:720)
+    nesting (Text/PrettyPrint/ANSI/Leijen/Internal.hs:720)
+    columns (Text/PrettyPrint/ANSI/Leijen/Internal.hs:724)
+    flatten (Text/PrettyPrint/ANSI/Leijen/Internal.hs:740)
+    colorFunctions (Text/PrettyPrint/ANSI/Leijen/Internal.hs:807)
+    oncolorFunctions (Text/PrettyPrint/ANSI/Leijen/Internal.hs:858)
+    Docs (Text/PrettyPrint/ANSI/Leijen/Internal.hs:942)
+    renderFits (Text/PrettyPrint/ANSI/Leijen/Internal.hs:991)
+    fits1 (Text/PrettyPrint/ANSI/Leijen/Internal.hs:1059)
+    fitsR (Text/PrettyPrint/ANSI/Leijen/Internal.hs:1078)
+    spaces (Text/PrettyPrint/ANSI/Leijen/Internal.hs:1211)
+    indentation (Text/PrettyPrint/ANSI/Leijen/Internal.hs:1215)
+  97% (137 /141) in 'Text.PrettyPrint.ANSI.Leijen'
+  Missing documentation for:
+    column (Text/PrettyPrint/ANSI/Leijen/Internal.hs:720)
+    columns (Text/PrettyPrint/ANSI/Leijen/Internal.hs:724)
+    nesting (Text/PrettyPrint/ANSI/Leijen/Internal.hs:720)
+    width (Text/PrettyPrint/ANSI/Leijen/Internal.hs:516)
+Documentation created:
+.stack-work/dist/x86_64-osx/Cabal-2.2.0.1/doc/html/ansi-wl-pprint/index.html,
+.stack-work/dist/x86_64-osx/Cabal-2.2.0.1/doc/html/ansi-wl-pprint/ansi-wl-pprint.txt
+Installing library in /Users/masa/.stack/snapshots/x86_64-osx/lts-12.25/8.4.4/lib/x86_64-osx-ghc-8.4.4/ansi-wl-pprint-0.6.8.2-CRoRAdEpifJaTwySBP3K4
+Registering library for ansi-wl-pprint-0.6.8.2..

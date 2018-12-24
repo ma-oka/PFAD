@@ -1,0 +1,45 @@
+Configuring tar-0.5.1.0...
+Preprocessing library for tar-0.5.1.0..
+Building library for tar-0.5.1.0..
+[ 1 of 11] Compiling Codec.Archive.Tar.Index.IntTrie ( Codec/Archive/Tar/Index/IntTrie.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Codec/Archive/Tar/Index/IntTrie.o )
+[ 2 of 11] Compiling Codec.Archive.Tar.Index.StringTable ( Codec/Archive/Tar/Index/StringTable.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Codec/Archive/Tar/Index/StringTable.o )
+[ 3 of 11] Compiling Codec.Archive.Tar.Types ( Codec/Archive/Tar/Types.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Codec/Archive/Tar/Types.o )
+[ 4 of 11] Compiling Codec.Archive.Tar.Read ( Codec/Archive/Tar/Read.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Codec/Archive/Tar/Read.o )
+[ 5 of 11] Compiling Codec.Archive.Tar.Pack ( Codec/Archive/Tar/Pack.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Codec/Archive/Tar/Pack.o )
+[ 6 of 11] Compiling Codec.Archive.Tar.Index ( Codec/Archive/Tar/Index.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Codec/Archive/Tar/Index.o )
+[ 7 of 11] Compiling Codec.Archive.Tar.Entry ( Codec/Archive/Tar/Entry.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Codec/Archive/Tar/Entry.o )
+[ 8 of 11] Compiling Codec.Archive.Tar.Check ( Codec/Archive/Tar/Check.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Codec/Archive/Tar/Check.o )
+[ 9 of 11] Compiling Codec.Archive.Tar.Unpack ( Codec/Archive/Tar/Unpack.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Codec/Archive/Tar/Unpack.o )
+[10 of 11] Compiling Codec.Archive.Tar.Write ( Codec/Archive/Tar/Write.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Codec/Archive/Tar/Write.o )
+[11 of 11] Compiling Codec.Archive.Tar ( Codec/Archive/Tar.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Codec/Archive/Tar.o )
+Preprocessing library for tar-0.5.1.0..
+Running Haddock on library for tar-0.5.1.0..
+Haddock coverage:
+Warning: 'UstarHeader' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'checkSecurity' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'unfoldr' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+  94% ( 34 / 36) in 'Codec.Archive.Tar.Index'
+  Missing documentation for:
+    emptyIndex (Codec/Archive/Tar/Index.hs:293)
+    finaliseIndex (Codec/Archive/Tar/Index.hs:325)
+  84% ( 32 / 38) in 'Codec.Archive.Tar.Entry'
+  Missing documentation for:
+    Ownership (Codec/Archive/Tar/Types.hs:144)
+    FileSize (Codec/Archive/Tar/Types.hs:88)
+    Permissions (Codec/Archive/Tar/Types.hs:94)
+    DevMajor (Codec/Archive/Tar/Types.hs:91)
+    DevMinor (Codec/Archive/Tar/Types.hs:92)
+    TypeCode (Codec/Archive/Tar/Types.hs:93)
+ 100% ( 11 / 11) in 'Codec.Archive.Tar.Check'
+ 100% ( 39 / 39) in 'Codec.Archive.Tar'
+Documentation created:
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/tar/index.html,
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/tar/tar.txt
+Installing library in /Users/masa/.stack/snapshots/x86_64-osx/lts-13.0/8.6.3/lib/x86_64-osx-ghc-8.6.3/tar-0.5.1.0-GcqFpTqelp4Lmy6ZbjHbS7
+Registering library for tar-0.5.1.0..

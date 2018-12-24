@@ -1,0 +1,39 @@
+Configuring psqueues-0.2.7.0...
+Preprocessing library for psqueues-0.2.7.0..
+Building library for psqueues-0.2.7.0..
+[1 of 7] Compiling Data.BitUtil     ( src/Data/BitUtil.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/BitUtil.o )
+[2 of 7] Compiling Data.IntPSQ.Internal ( src/Data/IntPSQ/Internal.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/IntPSQ/Internal.o )
+[3 of 7] Compiling Data.IntPSQ      ( src/Data/IntPSQ.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/IntPSQ.o )
+[4 of 7] Compiling Data.OrdPSQ.Internal ( src/Data/OrdPSQ/Internal.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/OrdPSQ/Internal.o )
+[5 of 7] Compiling Data.OrdPSQ      ( src/Data/OrdPSQ.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/OrdPSQ.o )
+[6 of 7] Compiling Data.HashPSQ.Internal ( src/Data/HashPSQ/Internal.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/HashPSQ/Internal.o )
+[7 of 7] Compiling Data.HashPSQ     ( src/Data/HashPSQ.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/HashPSQ.o )
+Preprocessing library for psqueues-0.2.7.0..
+Running Haddock on library for psqueues-0.2.7.0..
+Haddock coverage:
+Warning: 'OrdPSQ' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+  95% ( 39 / 41) in 'Data.IntPSQ'
+  Missing documentation for:
+    unsafeInsertIncreasePriorityView (src/Data/IntPSQ/Internal.hs:543)
+    unsafeInsertWithIncreasePriorityView (src/Data/IntPSQ/Internal.hs:580)
+ 100% ( 35 / 35) in 'Data.OrdPSQ'
+Warning: 'IntPSQ' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'OrdPSQ' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+  92% ( 35 / 38) in 'Data.HashPSQ'
+  Missing documentation for:
+    unsafeLookupIncreasePriority (src/Data/HashPSQ/Internal.hs:428)
+    unsafeInsertIncreasePriority (src/Data/HashPSQ/Internal.hs:449)
+    unsafeInsertIncreasePriorityView (src/Data/HashPSQ/Internal.hs:464)
+Warning: Data.IntPSQ: could not find link destinations for:
+    Key
+Documentation created:
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/psqueues/index.html,
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/psqueues/psqueues.txt
+Installing library in /Users/masa/.stack/snapshots/x86_64-osx/lts-13.0/8.6.3/lib/x86_64-osx-ghc-8.6.3/psqueues-0.2.7.0-4ZUpDIrYZlvH46JBKoLX7z
+Registering library for psqueues-0.2.7.0..

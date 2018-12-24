@@ -1,0 +1,21 @@
+Configuring case-insensitive-1.2.0.11...
+Preprocessing library for case-insensitive-1.2.0.11..
+Building library for case-insensitive-1.2.0.11..
+[1 of 3] Compiling Data.CaseInsensitive.Internal ( Data/CaseInsensitive/Internal.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/CaseInsensitive/Internal.o )
+[2 of 3] Compiling Data.CaseInsensitive ( Data/CaseInsensitive.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/CaseInsensitive.o )
+[3 of 3] Compiling Data.CaseInsensitive.Unsafe ( Data/CaseInsensitive/Unsafe.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/CaseInsensitive/Unsafe.o )
+Preprocessing library for case-insensitive-1.2.0.11..
+Running Haddock on library for case-insensitive-1.2.0.11..
+Haddock coverage:
+Warning: 'String' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+ 100% (  7 /  7) in 'Data.CaseInsensitive'
+ 100% (  2 /  2) in 'Data.CaseInsensitive.Unsafe'
+Warning: Data.CaseInsensitive: could not find link destinations for:
+    foldCaseList
+Documentation created:
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/case-insensitive/index.html,
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/case-insensitive/case-insensitive.txt
+Installing library in /Users/masa/.stack/snapshots/x86_64-osx/lts-13.0/8.6.3/lib/x86_64-osx-ghc-8.6.3/case-insensitive-1.2.0.11-GGYU9CY9cs88wywgwHVKC6
+Registering library for case-insensitive-1.2.0.11..

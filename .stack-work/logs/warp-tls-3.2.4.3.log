@@ -1,0 +1,21 @@
+Configuring warp-tls-3.2.4.3...
+Preprocessing library for warp-tls-3.2.4.3..
+Building library for warp-tls-3.2.4.3..
+[1 of 1] Compiling Network.Wai.Handler.WarpTLS ( Network/Wai/Handler/WarpTLS.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Network/Wai/Handler/WarpTLS.o )
+Preprocessing library for warp-tls-3.2.4.3..
+Running Haddock on library for warp-tls-3.2.4.3..
+Haddock coverage:
+Warning: 'cryptonite' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'Config' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+  96% ( 27 / 28) in 'Network.Wai.Handler.WarpTLS'
+  Missing documentation for:
+    WarpTLSException (Network/Wai/Handler/WarpTLS.hs:486)
+Documentation created:
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/warp-tls/index.html,
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/warp-tls/warp-tls.txt
+Installing library in /Users/masa/.stack/snapshots/x86_64-osx/lts-13.0/8.6.3/lib/x86_64-osx-ghc-8.6.3/warp-tls-3.2.4.3-8eaUGXGG9BrDdTauvuSQpP
+Registering library for warp-tls-3.2.4.3..

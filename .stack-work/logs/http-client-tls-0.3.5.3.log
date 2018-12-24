@@ -1,0 +1,13 @@
+Configuring http-client-tls-0.3.5.3...
+Preprocessing library for http-client-tls-0.3.5.3..
+Building library for http-client-tls-0.3.5.3..
+[1 of 1] Compiling Network.HTTP.Client.TLS ( Network/HTTP/Client/TLS.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Network/HTTP/Client/TLS.o )
+Preprocessing library for http-client-tls-0.3.5.3..
+Running Haddock on library for http-client-tls-0.3.5.3..
+Haddock coverage:
+ 100% ( 15 / 15) in 'Network.HTTP.Client.TLS'
+Documentation created:
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/http-client-tls/index.html,
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/http-client-tls/http-client-tls.txt
+Installing library in /Users/masa/.stack/snapshots/x86_64-osx/lts-13.0/8.6.3/lib/x86_64-osx-ghc-8.6.3/http-client-tls-0.3.5.3-7JRI60l8yNeF4itDPzzQYT
+Registering library for http-client-tls-0.3.5.3..

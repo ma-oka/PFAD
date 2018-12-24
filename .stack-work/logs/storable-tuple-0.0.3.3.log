@@ -1,0 +1,18 @@
+Configuring storable-tuple-0.0.3.3...
+Preprocessing library for storable-tuple-0.0.3.3..
+Building library for storable-tuple-0.0.3.3..
+[1 of 1] Compiling Foreign.Storable.Tuple ( src/Foreign/Storable/Tuple.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Foreign/Storable/Tuple.o )
+Preprocessing library for storable-tuple-0.0.3.3..
+Running Haddock on library for storable-tuple-0.0.3.3..
+Haddock coverage:
+   0% (  0 /  4) in 'Foreign.Storable.Tuple'
+  Missing documentation for:
+    Module header
+    storePair (src/Foreign/Storable/Tuple.hs:21)
+    storeTriple (src/Foreign/Storable/Tuple.hs:38)
+    storeQuadruple (src/Foreign/Storable/Tuple.hs:55)
+Documentation created:
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/storable-tuple/index.html,
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/storable-tuple/storable-tuple.txt
+Installing library in /Users/masa/.stack/snapshots/x86_64-osx/lts-13.0/8.6.3/lib/x86_64-osx-ghc-8.6.3/storable-tuple-0.0.3.3-Fq2PaWA4eoiEnZssqvIdKX
+Registering library for storable-tuple-0.0.3.3..

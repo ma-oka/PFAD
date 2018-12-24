@@ -1,0 +1,28 @@
+Configuring appar-0.1.7...
+Preprocessing library for appar-0.1.7..
+Building library for appar-0.1.7..
+[1 of 5] Compiling Text.Appar.Input ( Text/Appar/Input.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Text/Appar/Input.o )
+[2 of 5] Compiling Text.Appar.Parser ( Text/Appar/Parser.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Text/Appar/Parser.o )
+[3 of 5] Compiling Text.Appar.LazyByteString ( Text/Appar/LazyByteString.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Text/Appar/LazyByteString.o )
+[4 of 5] Compiling Text.Appar.ByteString ( Text/Appar/ByteString.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Text/Appar/ByteString.o )
+[5 of 5] Compiling Text.Appar.String ( Text/Appar/String.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Text/Appar/String.o )
+Preprocessing library for appar-0.1.7..
+Running Haddock on library for appar-0.1.7..
+Haddock coverage:
+  98% ( 39 / 40) in 'Text.Appar.LazyByteString'
+  Missing documentation for:
+    MkParser (Text/Appar/Parser.hs:64)
+  98% ( 39 / 40) in 'Text.Appar.ByteString'
+  Missing documentation for:
+    MkParser (Text/Appar/Parser.hs:64)
+Warning: 'ByteString' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+  98% ( 39 / 40) in 'Text.Appar.String'
+  Missing documentation for:
+    MkParser (Text/Appar/Parser.hs:64)
+Documentation created:
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/appar/index.html,
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/appar/appar.txt
+Installing library in /Users/masa/.stack/snapshots/x86_64-osx/lts-13.0/8.6.3/lib/x86_64-osx-ghc-8.6.3/appar-0.1.7-AJ7bFeqAcD89NN10UFnSvm
+Registering library for appar-0.1.7..

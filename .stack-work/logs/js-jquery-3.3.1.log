@@ -1,0 +1,14 @@
+Configuring js-jquery-3.3.1...
+Preprocessing library for js-jquery-3.3.1..
+Building library for js-jquery-3.3.1..
+[1 of 2] Compiling Paths_js_jquery  ( .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/autogen/Paths_js_jquery.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Paths_js_jquery.o )
+[2 of 2] Compiling Language.Javascript.JQuery ( src/Language/Javascript/JQuery.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Language/Javascript/JQuery.o )
+Preprocessing library for js-jquery-3.3.1..
+Running Haddock on library for js-jquery-3.3.1..
+Haddock coverage:
+ 100% (  4 /  4) in 'Language.Javascript.JQuery'
+Documentation created:
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/js-jquery/index.html,
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/js-jquery/js-jquery.txt
+Installing library in /Users/masa/.stack/snapshots/x86_64-osx/lts-13.0/8.6.3/lib/x86_64-osx-ghc-8.6.3/js-jquery-3.3.1-DZqkP3t9sdEKaANNNRYiKE
+Registering library for js-jquery-3.3.1..

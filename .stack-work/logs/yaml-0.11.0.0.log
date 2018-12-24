@@ -1,0 +1,93 @@
+Configuring yaml-0.11.0.0...
+Preprocessing library for yaml-0.11.0.0..
+Building library for yaml-0.11.0.0..
+[ 1 of 10] Compiling Data.Yaml.Internal ( src/Data/Yaml/Internal.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/Yaml/Internal.o )
+[ 2 of 10] Compiling Data.Yaml.Include ( src/Data/Yaml/Include.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/Yaml/Include.o )
+[ 3 of 10] Compiling Data.Yaml.Builder ( src/Data/Yaml/Builder.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/Yaml/Builder.o )
+[ 4 of 10] Compiling Data.Yaml        ( src/Data/Yaml.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/Yaml.o )
+[ 5 of 10] Compiling Data.Yaml.Config ( src/Data/Yaml/Config.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/Yaml/Config.o )
+[ 6 of 10] Compiling Data.Yaml.Aeson  ( src/Data/Yaml/Aeson.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/Yaml/Aeson.o )
+[ 7 of 10] Compiling Data.Yaml.Parser ( src/Data/Yaml/Parser.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/Yaml/Parser.o )
+[ 8 of 10] Compiling Data.Yaml.Pretty ( src/Data/Yaml/Pretty.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/Yaml/Pretty.o )
+[ 9 of 10] Compiling Data.Yaml.TH     ( src/Data/Yaml/TH.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/Yaml/TH.o )
+[10 of 10] Compiling Paths_yaml       ( .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/autogen/Paths_yaml.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Paths_yaml.o )
+Preprocessing library for yaml-0.11.0.0..
+Running Haddock on library for yaml-0.11.0.0..
+Haddock coverage:
+  20% (  2 / 10) in 'Data.Yaml.Internal'
+  Missing documentation for:
+    Module header
+    ParseException (src/Data/Yaml/Internal.hs:55)
+    Warning (src/Data/Yaml/Internal.hs:126)
+    parse (src/Data/Yaml/Internal.hs:147)
+    decodeHelper (src/Data/Yaml/Internal.hs:272)
+    decodeHelper_ (src/Data/Yaml/Internal.hs:287)
+    isNumeric (src/Data/Yaml/Internal.hs:307)
+    textToScientific (src/Data/Yaml/Internal.hs:189)
+  75% (  3 /  4) in 'Data.Yaml.Include'
+  Missing documentation for:
+    Module header
+  60% ( 18 / 30) in 'Data.Yaml.Builder'
+  Missing documentation for:
+    YamlBuilder (src/Data/Yaml/Builder.hs:65)
+    ToYaml (src/Data/Yaml/Builder.hs:67)
+    mapping (src/Data/Yaml/Builder.hs:90)
+    array (src/Data/Yaml/Builder.hs:106)
+    string (src/Data/Yaml/Builder.hs:129)
+    bool (src/Data/Yaml/Builder.hs:161)
+    null (src/Data/Yaml/Builder.hs:174)
+    scientific (src/Data/Yaml/Builder.hs:143)
+    number (src/Data/Yaml/Builder.hs:152)
+    toByteString (src/Data/Yaml/Builder.hs:194)
+    writeYamlFile (src/Data/Yaml/Builder.hs:202)
+    .= (src/Data/Yaml/Builder.hs:62)
+  86% ( 48 / 56) in 'Data.Yaml'
+  Missing documentation for:
+    decodeHelper (src/Data/Yaml/Internal.hs:272)
+    ParseException (src/Data/Yaml/Internal.hs:55)
+    YamlException
+    .=
+    parseMonad (src/Data/Yaml.hs:299)
+    decode (src/Data/Yaml.hs:235)
+    decodeFile (src/Data/Yaml.hs:243)
+    decodeEither (src/Data/Yaml.hs:268)
+ 100% ( 15 / 15) in 'Data.Yaml.Config'
+ 100% (  2 /  2) in 'Data.Yaml.Aeson'
+   6% (  1 / 18) in 'Data.Yaml.Parser'
+  Missing documentation for:
+    YamlParser (src/Data/Yaml/Parser.hs:31)
+    lookupAnchor (src/Data/Yaml/Parser.hs:63)
+    withAnchor (src/Data/Yaml/Parser.hs:66)
+    withMapping (src/Data/Yaml/Parser.hs:73)
+    withSequence (src/Data/Yaml/Parser.hs:78)
+    withText (src/Data/Yaml/Parser.hs:83)
+    typeMismatch (src/Data/Yaml/Parser.hs:88)
+    FromYaml (src/Data/Yaml/Parser.hs:103)
+    YamlValue (src/Data/Yaml/Parser.hs:120)
+    AnchorMap (src/Data/Yaml/Parser.hs:127)
+    RawDoc (src/Data/Yaml/Parser.hs:128)
+    parseRawDoc (src/Data/Yaml/Parser.hs:131)
+    .: (src/Data/Yaml/Parser.hs:137)
+    YamlParseException (src/Data/Yaml/Parser.hs:143)
+    sinkValue (src/Data/Yaml/Parser.hs:150)
+    sinkRawDoc (src/Data/Yaml/Parser.hs:197)
+    readYamlFile (src/Data/Yaml/Parser.hs:200)
+Warning: 'encode' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+ 100% (  8 /  8) in 'Data.Yaml.Pretty'
+  88% ( 14 / 16) in 'Data.Yaml.TH'
+  Missing documentation for:
+    Module header
+    .=
+Warning: Data.Yaml.Internal: could not find link destinations for:
+    Parse
+Warning: Data.Yaml: could not find link destinations for:
+    Parse FromString fromString GToJSON gToJSON EncodeProduct WriteProduct ProductSize FromPairs fromPairs KeyValuePair pair SumToJSON' TwoElemArray ConsToJSON sumToJSON' withBoundedScientific
+Warning: Data.Yaml.TH: could not find link destinations for:
+    FromString fromString GToJSON gToJSON EncodeProduct WriteProduct ProductSize FromPairs fromPairs KeyValuePair pair SumToJSON' TwoElemArray ConsToJSON sumToJSON'
+Documentation created:
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/yaml/index.html,
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/yaml/yaml.txt
+Installing library in /Users/masa/.stack/snapshots/x86_64-osx/lts-13.0/8.6.3/lib/x86_64-osx-ghc-8.6.3/yaml-0.11.0.0-GAWf3vpOhGMK7o9d6zMyJu
+Registering library for yaml-0.11.0.0..

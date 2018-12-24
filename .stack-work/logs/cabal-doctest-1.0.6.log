@@ -1,0 +1,16 @@
+Configuring cabal-doctest-1.0.6...
+Preprocessing library for cabal-doctest-1.0.6..
+Building library for cabal-doctest-1.0.6..
+[1 of 1] Compiling Distribution.Extra.Doctest ( src/Distribution/Extra/Doctest.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Distribution/Extra/Doctest.o )
+Preprocessing library for cabal-doctest-1.0.6..
+Running Haddock on library for cabal-doctest-1.0.6..
+Haddock coverage:
+Warning: 'Build_doctests' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+ 100% (  6 /  6) in 'Distribution.Extra.Doctest'
+Documentation created:
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/cabal-doctest/index.html,
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/cabal-doctest/cabal-doctest.txt
+Installing library in /Users/masa/.stack/snapshots/x86_64-osx/lts-13.0/8.6.3/lib/x86_64-osx-ghc-8.6.3/cabal-doctest-1.0.6-86ieqb3MUgY7IBnRw4OXav
+Registering library for cabal-doctest-1.0.6..

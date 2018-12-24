@@ -1,0 +1,71 @@
+Configuring http-conduit-2.3.4...
+Preprocessing library for http-conduit-2.3.4..
+Building library for http-conduit-2.3.4..
+[1 of 3] Compiling Network.HTTP.Client.Conduit ( Network/HTTP/Client/Conduit.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Network/HTTP/Client/Conduit.o )
+[2 of 3] Compiling Network.HTTP.Conduit ( Network/HTTP/Conduit.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Network/HTTP/Conduit.o )
+[3 of 3] Compiling Network.HTTP.Simple ( Network/HTTP/Simple.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Network/HTTP/Simple.o )
+Preprocessing library for http-conduit-2.3.4..
+Running Haddock on library for http-conduit-2.3.4..
+Haddock coverage:
+  88% ( 77 / 88) in 'Network.HTTP.Client.Conduit'
+  Missing documentation for:
+    removeExistingCookieFromCookieJar
+    destroyCookieJar
+    createCookieJar
+    isIpAddress
+    HttpExceptionContent
+    Cookie
+    CookieJar
+    HasHttpManager
+    requestBodySource (Network/HTTP/Client/Conduit.hs:129)
+    requestBodySourceChunked (Network/HTTP/Client/Conduit.hs:132)
+    bodyReaderSource (Network/HTTP/Client/Conduit.hs:117)
+Warning: 'checkStatus' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'mkManagerSetttings' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'throwIO' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+  86% ( 69 / 80) in 'Network.HTTP.Conduit'
+  Missing documentation for:
+    http (Network/HTTP/Conduit.hs:310)
+    requestBodySource (Network/HTTP/Conduit.hs:321)
+    requestBodySourceChunked (Network/HTTP/Conduit.hs:324)
+    requestBodySourceIO (Network/HTTP/Conduit.hs:344)
+    requestBodySourceChunkedIO (Network/HTTP/Conduit.hs:347)
+    Cookie
+    CookieJar
+    createCookieJar
+    destroyCookieJar
+    lbsResponse (Network/HTTP/Conduit.hs:301)
+    HttpExceptionContent
+Warning: 'parseRequest' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'HttpException' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'throwErrorStatusCodes' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'checkResponse' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'parseUrlThrow' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'requestBodyJSON' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'requestMethod' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+ 100% ( 61 / 61) in 'Network.HTTP.Simple'
+Documentation created:
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/http-conduit/index.html,
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/http-conduit/http-conduit.txt
+Installing library in /Users/masa/.stack/snapshots/x86_64-osx/lts-13.0/8.6.3/lib/x86_64-osx-ghc-8.6.3/http-conduit-2.3.4-GpjLhRcW5xU5JWjVZG8hCd
+Registering library for http-conduit-2.3.4..

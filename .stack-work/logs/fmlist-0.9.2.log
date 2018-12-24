@@ -1,0 +1,38 @@
+Configuring fmlist-0.9.2...
+Preprocessing library for fmlist-0.9.2..
+Building library for fmlist-0.9.2..
+[1 of 1] Compiling Data.FMList      ( Data/FMList.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/FMList.o )
+Preprocessing library for fmlist-0.9.2..
+Running Haddock on library for fmlist-0.9.2..
+Haddock coverage:
+  37% ( 14 / 38) in 'Data.FMList'
+  Missing documentation for:
+    singleton (Data/FMList.hs:141)
+    cons (Data/FMList.hs:144)
+    snoc (Data/FMList.hs:147)
+    pair (Data/FMList.hs:150)
+    append (Data/FMList.hs:153)
+    fromList (Data/FMList.hs:158)
+    fromFoldable (Data/FMList.hs:161)
+    null (Data/FMList.hs:168)
+    length (Data/FMList.hs:171)
+    genericLength (Data/FMList.hs:174)
+    head (Data/FMList.hs:178)
+    tail (Data/FMList.hs:181)
+    last (Data/FMList.hs:184)
+    init (Data/FMList.hs:187)
+    reverse (Data/FMList.hs:190)
+    flatten (Data/FMList.hs:193)
+    filter (Data/FMList.hs:196)
+    take (Data/FMList.hs:204)
+    drop (Data/FMList.hs:210)
+    takeWhile (Data/FMList.hs:207)
+    dropWhile (Data/FMList.hs:213)
+    zip (Data/FMList.hs:219)
+    zipWith (Data/FMList.hs:216)
+    iterate (Data/FMList.hs:223)
+Documentation created:
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/fmlist/index.html,
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/fmlist/fmlist.txt
+Installing library in /Users/masa/.stack/snapshots/x86_64-osx/lts-13.0/8.6.3/lib/x86_64-osx-ghc-8.6.3/fmlist-0.9.2-2wB8okaNnKpJPuHuWwT7AH
+Registering library for fmlist-0.9.2..

@@ -1,0 +1,19 @@
+Configuring file-embed-0.0.10.1...
+clang: warning: argument unused during compilation: '-nopie' [-Wunused-command-line-argument]
+Preprocessing library for file-embed-0.0.10.1..
+Building library for file-embed-0.0.10.1..
+[1 of 1] Compiling Data.FileEmbed   ( Data/FileEmbed.hs, .stack-work/dist/x86_64-osx/Cabal-2.2.0.1/build/Data/FileEmbed.o )
+Preprocessing library for file-embed-0.0.10.1..
+Running Haddock on library for file-embed-0.0.10.1..
+Haddock coverage:
+  83% ( 19 / 23) in 'Data.FileEmbed'
+  Missing documentation for:
+    makeRelativeToProject (Data/FileEmbed.hs:360)
+    stringToBs (Data/FileEmbed.hs:153)
+    bsToExp (Data/FileEmbed.hs:135)
+    strToExp (Data/FileEmbed.hs:190)
+Documentation created:
+.stack-work/dist/x86_64-osx/Cabal-2.2.0.1/doc/html/file-embed/index.html,
+.stack-work/dist/x86_64-osx/Cabal-2.2.0.1/doc/html/file-embed/file-embed.txt
+Installing library in /Users/masa/.stack/snapshots/x86_64-osx/lts-12.25/8.4.4/lib/x86_64-osx-ghc-8.4.4/file-embed-0.0.10.1-JBj0CTa3b3pL2aTV19QFZK
+Registering library for file-embed-0.0.10.1..

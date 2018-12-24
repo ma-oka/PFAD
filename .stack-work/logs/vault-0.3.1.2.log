@@ -1,0 +1,29 @@
+Configuring vault-0.3.1.2...
+Preprocessing library for vault-0.3.1.2..
+Building library for vault-0.3.1.2..
+[1 of 5] Compiling Data.Unique.Really ( src/Data/Unique/Really.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/Unique/Really.o )
+[2 of 5] Compiling Data.Vault.ST.Lazy ( src/Data/Vault/ST/Lazy.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/Vault/ST/Lazy.o )
+[3 of 5] Compiling Data.Vault.Lazy  ( src/Data/Vault/Lazy.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/Vault/Lazy.o )
+[4 of 5] Compiling Data.Vault.ST.Strict ( src/Data/Vault/ST/Strict.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/Vault/ST/Strict.o )
+[5 of 5] Compiling Data.Vault.Strict ( src/Data/Vault/Strict.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/Vault/Strict.o )
+Preprocessing library for vault-0.3.1.2..
+Running Haddock on library for vault-0.3.1.2..
+Haddock coverage:
+ 100% (  4 /  4) in 'Data.Unique.Really'
+  80% ( 12 / 15) in 'Data.Vault.ST.Lazy'
+  Missing documentation for:
+    Vault (src/Data/Vault/ST/backends/GHC.h:18)
+    Key (src/Data/Vault/ST/backends/GHC.h:19)
+    Locker (src/Data/Vault/ST/backends/GHC.h:40)
+ 100% ( 15 / 15) in 'Data.Vault.Lazy'
+  80% ( 12 / 15) in 'Data.Vault.ST.Strict'
+  Missing documentation for:
+    Vault (src/Data/Vault/ST/backends/GHC.h:18)
+    Key (src/Data/Vault/ST/backends/GHC.h:19)
+    Locker (src/Data/Vault/ST/backends/GHC.h:40)
+ 100% ( 15 / 15) in 'Data.Vault.Strict'
+Documentation created:
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/vault/index.html,
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/vault/vault.txt
+Installing library in /Users/masa/.stack/snapshots/x86_64-osx/lts-13.0/8.6.3/lib/x86_64-osx-ghc-8.6.3/vault-0.3.1.2-ICSoiK7xFvNEQb1ZDoA1AL
+Registering library for vault-0.3.1.2..

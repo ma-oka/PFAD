@@ -1,0 +1,121 @@
+Configuring yaml-0.8.32...
+clang: warning: argument unused during compilation: '-nopie' [-Wunused-command-line-argument]
+Preprocessing library for yaml-0.8.32..
+Building library for yaml-0.8.32..
+[ 1 of 11] Compiling Paths_yaml       ( .stack-work/dist/x86_64-osx/Cabal-2.2.0.1/build/autogen/Paths_yaml.hs, .stack-work/dist/x86_64-osx/Cabal-2.2.0.1/build/Paths_yaml.o )
+[ 2 of 11] Compiling Text.Libyaml     ( src/Text/Libyaml.hs, .stack-work/dist/x86_64-osx/Cabal-2.2.0.1/build/Text/Libyaml.o )
+[ 3 of 11] Compiling Data.Yaml.Parser ( src/Data/Yaml/Parser.hs, .stack-work/dist/x86_64-osx/Cabal-2.2.0.1/build/Data/Yaml/Parser.o )
+[ 4 of 11] Compiling Data.Yaml.Internal ( src/Data/Yaml/Internal.hs, .stack-work/dist/x86_64-osx/Cabal-2.2.0.1/build/Data/Yaml/Internal.o )
+[ 5 of 11] Compiling Data.Yaml.Include ( src/Data/Yaml/Include.hs, .stack-work/dist/x86_64-osx/Cabal-2.2.0.1/build/Data/Yaml/Include.o )
+[ 6 of 11] Compiling Data.Yaml.Builder ( src/Data/Yaml/Builder.hs, .stack-work/dist/x86_64-osx/Cabal-2.2.0.1/build/Data/Yaml/Builder.o )
+[ 7 of 11] Compiling Data.Yaml.Pretty ( src/Data/Yaml/Pretty.hs, .stack-work/dist/x86_64-osx/Cabal-2.2.0.1/build/Data/Yaml/Pretty.o )
+[ 8 of 11] Compiling Data.Yaml        ( src/Data/Yaml.hs, .stack-work/dist/x86_64-osx/Cabal-2.2.0.1/build/Data/Yaml.o )
+[ 9 of 11] Compiling Data.Yaml.TH     ( src/Data/Yaml/TH.hs, .stack-work/dist/x86_64-osx/Cabal-2.2.0.1/build/Data/Yaml/TH.o )
+[10 of 11] Compiling Data.Yaml.Config ( src/Data/Yaml/Config.hs, .stack-work/dist/x86_64-osx/Cabal-2.2.0.1/build/Data/Yaml/Config.o )
+[11 of 11] Compiling Data.Yaml.Aeson  ( src/Data/Yaml/Aeson.hs, .stack-work/dist/x86_64-osx/Cabal-2.2.0.1/build/Data/Yaml/Aeson.o )
+clang: warning: argument unused during compilation: '-nopie' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-nopie' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-nopie' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-nopie' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-nopie' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-nopie' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-nopie' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-nopie' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-nopie' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-nopie' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-nopie' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-nopie' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-nopie' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-nopie' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-nopie' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-nopie' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-nopie' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-nopie' [-Wunused-command-line-argument]
+Preprocessing library for yaml-0.8.32..
+Running Haddock on library for yaml-0.8.32..
+Haddock coverage:
+  33% (  5 / 15) in 'Text.Libyaml'
+  Missing documentation for:
+    Event (src/Text/Libyaml.hs:58)
+    Style (src/Text/Libyaml.hs:71)
+    Tag (src/Text/Libyaml.hs:80)
+    AnchorName (src/Text/Libyaml.hs:92)
+    Anchor (src/Text/Libyaml.hs:93)
+    encode (src/Text/Libyaml.hs:576)
+    decode (src/Text/Libyaml.hs:482)
+    encodeFile (src/Text/Libyaml.hs:591)
+    decodeFile (src/Text/Libyaml.hs:524)
+    YamlException (src/Text/Libyaml.hs:639)
+   6% (  1 / 18) in 'Data.Yaml.Parser'
+  Missing documentation for:
+    YamlParser (src/Data/Yaml/Parser.hs:31)
+    lookupAnchor (src/Data/Yaml/Parser.hs:63)
+    withAnchor (src/Data/Yaml/Parser.hs:66)
+    withMapping (src/Data/Yaml/Parser.hs:73)
+    withSequence (src/Data/Yaml/Parser.hs:78)
+    withText (src/Data/Yaml/Parser.hs:83)
+    typeMismatch (src/Data/Yaml/Parser.hs:88)
+    FromYaml (src/Data/Yaml/Parser.hs:103)
+    YamlValue (src/Data/Yaml/Parser.hs:120)
+    AnchorMap (src/Data/Yaml/Parser.hs:127)
+    RawDoc (src/Data/Yaml/Parser.hs:128)
+    parseRawDoc (src/Data/Yaml/Parser.hs:131)
+    .: (src/Data/Yaml/Parser.hs:137)
+    YamlParseException (src/Data/Yaml/Parser.hs:143)
+    sinkValue (src/Data/Yaml/Parser.hs:150)
+    sinkRawDoc (src/Data/Yaml/Parser.hs:197)
+    readYamlFile (src/Data/Yaml/Parser.hs:200)
+  22% (  2 /  9) in 'Data.Yaml.Internal'
+  Missing documentation for:
+    Module header
+    ParseException (src/Data/Yaml/Internal.hs:49)
+    parse (src/Data/Yaml/Internal.hs:136)
+    decodeHelper (src/Data/Yaml/Internal.hs:263)
+    decodeHelper_ (src/Data/Yaml/Internal.hs:278)
+    isNumeric (src/Data/Yaml/Internal.hs:298)
+    textToScientific (src/Data/Yaml/Internal.hs:181)
+  67% (  2 /  3) in 'Data.Yaml.Include'
+  Missing documentation for:
+    Module header
+   8% (  1 / 13) in 'Data.Yaml.Builder'
+  Missing documentation for:
+    YamlBuilder (src/Data/Yaml/Builder.hs:48)
+    ToYaml (src/Data/Yaml/Builder.hs:50)
+    mapping (src/Data/Yaml/Builder.hs:63)
+    array (src/Data/Yaml/Builder.hs:71)
+    string (src/Data/Yaml/Builder.hs:77)
+    bool (src/Data/Yaml/Builder.hs:98)
+    null (src/Data/Yaml/Builder.hs:102)
+    scientific (src/Data/Yaml/Builder.hs:91)
+    number (src/Data/Yaml/Builder.hs:95)
+    toByteString (src/Data/Yaml/Builder.hs:112)
+    writeYamlFile (src/Data/Yaml/Builder.hs:115)
+    .= (src/Data/Yaml/Builder.hs:45)
+ 100% (  8 /  8) in 'Data.Yaml.Pretty'
+  82% ( 36 / 44) in 'Data.Yaml'
+  Missing documentation for:
+    decodeHelper (src/Data/Yaml/Internal.hs:263)
+    ParseException (src/Data/Yaml/Internal.hs:49)
+    YamlException (src/Text/Libyaml.hs:639)
+    .=
+    parseMonad (src/Data/Yaml.hs:216)
+    decode (src/Data/Yaml.hs:162)
+    decodeFile (src/Data/Yaml.hs:170)
+    decodeEither (src/Data/Yaml.hs:185)
+  88% ( 14 / 16) in 'Data.Yaml.TH'
+  Missing documentation for:
+    Module header
+    .=
+ 100% ( 15 / 15) in 'Data.Yaml.Config'
+ 100% (  2 /  2) in 'Data.Yaml.Aeson'
+Warning: Data.Yaml.Internal: could not find link destinations for:
+    Parse
+Warning: Data.Yaml: could not find link destinations for:
+    Parse FromString fromString GToJSON gToJSON EncodeProduct WriteProduct ProductSize FromPairs fromPairs KeyValuePair pair SumToJSON' TwoElemArray ConsToJSON sumToJSON'
+Warning: Data.Yaml.TH: could not find link destinations for:
+    FromString fromString GToJSON gToJSON EncodeProduct WriteProduct ProductSize FromPairs fromPairs KeyValuePair pair SumToJSON' TwoElemArray ConsToJSON sumToJSON'
+Documentation created:
+.stack-work/dist/x86_64-osx/Cabal-2.2.0.1/doc/html/yaml/index.html,
+.stack-work/dist/x86_64-osx/Cabal-2.2.0.1/doc/html/yaml/yaml.txt
+Installing library in /Users/masa/.stack/snapshots/x86_64-osx/lts-12.25/8.4.4/lib/x86_64-osx-ghc-8.4.4/yaml-0.8.32-7zGtmuJLDEC4VQaagRxr6T
+Registering library for yaml-0.8.32..

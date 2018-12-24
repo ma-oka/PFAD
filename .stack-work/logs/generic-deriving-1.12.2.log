@@ -1,0 +1,277 @@
+Configuring generic-deriving-1.12.2...
+Preprocessing library for generic-deriving-1.12.2..
+Building library for generic-deriving-1.12.2..
+[ 1 of 19] Compiling Generics.Deriving.Base.Internal ( src/Generics/Deriving/Base/Internal.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Generics/Deriving/Base/Internal.o )
+[ 2 of 19] Compiling Generics.Deriving.Instances ( src/Generics/Deriving/Instances.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Generics/Deriving/Instances.o )
+[ 3 of 19] Compiling Generics.Deriving.Base ( src/Generics/Deriving/Base.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Generics/Deriving/Base.o )
+[ 4 of 19] Compiling Generics.Deriving.Functor ( src/Generics/Deriving/Functor.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Generics/Deriving/Functor.o )
+[ 5 of 19] Compiling Generics.Deriving.Foldable ( src/Generics/Deriving/Foldable.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Generics/Deriving/Foldable.o )
+[ 6 of 19] Compiling Generics.Deriving.Eq ( src/Generics/Deriving/Eq.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Generics/Deriving/Eq.o )
+[ 7 of 19] Compiling Generics.Deriving.Enum ( src/Generics/Deriving/Enum.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Generics/Deriving/Enum.o )
+[ 8 of 19] Compiling Generics.Deriving.Copoint ( src/Generics/Deriving/Copoint.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Generics/Deriving/Copoint.o )
+[ 9 of 19] Compiling Generics.Deriving.ConNames ( src/Generics/Deriving/ConNames.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Generics/Deriving/ConNames.o )
+[10 of 19] Compiling Generics.Deriving.Monoid ( src/Generics/Deriving/Monoid.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Generics/Deriving/Monoid.o )
+[11 of 19] Compiling Generics.Deriving.Semigroup ( src/Generics/Deriving/Semigroup.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Generics/Deriving/Semigroup.o )
+[12 of 19] Compiling Generics.Deriving.Show ( src/Generics/Deriving/Show.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Generics/Deriving/Show.o )
+[13 of 19] Compiling Generics.Deriving.TH.Internal ( src/Generics/Deriving/TH/Internal.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Generics/Deriving/TH/Internal.o )
+[14 of 19] Compiling Generics.Deriving.TH.Post4_9 ( src/Generics/Deriving/TH/Post4_9.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Generics/Deriving/TH/Post4_9.o )
+[15 of 19] Compiling Generics.Deriving.TH ( src/Generics/Deriving/TH.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Generics/Deriving/TH.o )
+[16 of 19] Compiling Generics.Deriving.Traversable ( src/Generics/Deriving/Traversable.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Generics/Deriving/Traversable.o )
+[17 of 19] Compiling Generics.Deriving.Uniplate ( src/Generics/Deriving/Uniplate.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Generics/Deriving/Uniplate.o )
+[18 of 19] Compiling Generics.Deriving ( src/Generics/Deriving.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Generics/Deriving.o )
+[19 of 19] Compiling Paths_generic_deriving ( .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/autogen/Paths_generic_deriving.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Paths_generic_deriving.o )
+Preprocessing library for generic-deriving-1.12.2..
+Running Haddock on library for generic-deriving-1.12.2..
+Haddock coverage:
+Warning: 'NoSelector' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'Par0' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'P' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'encode' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'Encode' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'encode'' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'x' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'Tree' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'Int#' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'Ptr' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'UAddr' is ambiguous. It is defined
+    * in ‘GHC.Generics’
+    * in ‘GHC.Generics’
+    You may be able to disambiguate the identifier by qualifying it or
+    by hiding some imports.
+    Defaulting to 'UAddr' defined in ‘GHC.Generics’
+Warning: 'Addr#' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'UChar' is ambiguous. It is defined
+    * in ‘GHC.Generics’
+    * in ‘GHC.Generics’
+    You may be able to disambiguate the identifier by qualifying it or
+    by hiding some imports.
+    Defaulting to 'UChar' defined in ‘GHC.Generics’
+Warning: 'Char#' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'UDouble' is ambiguous. It is defined
+    * in ‘GHC.Generics’
+    * in ‘GHC.Generics’
+    You may be able to disambiguate the identifier by qualifying it or
+    by hiding some imports.
+    Defaulting to 'UDouble' defined in ‘GHC.Generics’
+Warning: 'Double#' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'UFloat' is ambiguous. It is defined
+    * in ‘GHC.Generics’
+    * in ‘GHC.Generics’
+    You may be able to disambiguate the identifier by qualifying it or
+    by hiding some imports.
+    Defaulting to 'UFloat' defined in ‘GHC.Generics’
+Warning: 'Float#' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'UInt' is ambiguous. It is defined
+    * in ‘GHC.Generics’
+    * in ‘GHC.Generics’
+    You may be able to disambiguate the identifier by qualifying it or
+    by hiding some imports.
+    Defaulting to 'UInt' defined in ‘GHC.Generics’
+Warning: 'UWord' is ambiguous. It is defined
+    * in ‘GHC.Generics’
+    * in ‘GHC.Generics’
+    You may be able to disambiguate the identifier by qualifying it or
+    by hiding some imports.
+    Defaulting to 'UWord' defined in ‘GHC.Generics’
+Warning: 'Word#' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+   0% (  0 /  1) in 'Generics.Deriving.Instances'
+  Missing documentation for:
+    Module header
+  97% ( 37 / 38) in 'Generics.Deriving.Base'
+  Missing documentation for:
+    Module header
+  43% (  3 /  7) in 'Generics.Deriving.Functor'
+  Missing documentation for:
+    Module header
+    GFunctor (src/Generics/Deriving/Functor.hs:130)
+    gmapdefault (src/Generics/Deriving/Functor.hs:138)
+    GFunctor' (src/Generics/Deriving/Functor.hs:76)
+  17% (  4 / 24) in 'Generics.Deriving.Foldable'
+  Missing documentation for:
+    Module header
+    GFoldable (src/Generics/Deriving/Foldable.hs:140)
+    gfoldMapdefault (src/Generics/Deriving/Foldable.hs:179)
+    gtoList (src/Generics/Deriving/Foldable.hs:277)
+    gconcat (src/Generics/Deriving/Foldable.hs:280)
+    gconcatMap (src/Generics/Deriving/Foldable.hs:283)
+    gand (src/Generics/Deriving/Foldable.hs:286)
+    gor (src/Generics/Deriving/Foldable.hs:289)
+    gany (src/Generics/Deriving/Foldable.hs:292)
+    gall (src/Generics/Deriving/Foldable.hs:295)
+    gsum (src/Generics/Deriving/Foldable.hs:298)
+    gproduct (src/Generics/Deriving/Foldable.hs:301)
+    gmaximum (src/Generics/Deriving/Foldable.hs:304)
+    gmaximumBy (src/Generics/Deriving/Foldable.hs:307)
+    gminimum (src/Generics/Deriving/Foldable.hs:313)
+    gminimumBy (src/Generics/Deriving/Foldable.hs:316)
+    gelem (src/Generics/Deriving/Foldable.hs:322)
+    gnotElem (src/Generics/Deriving/Foldable.hs:325)
+    gfind (src/Generics/Deriving/Foldable.hs:328)
+    GFoldable' (src/Generics/Deriving/Foldable.hs:91)
+  43% (  3 /  7) in 'Generics.Deriving.Eq'
+  Missing documentation for:
+    Module header
+    GEq (src/Generics/Deriving/Eq.hs:127)
+    geqdefault (src/Generics/Deriving/Eq.hs:136)
+    GEq' (src/Generics/Deriving/Eq.hs:82)
+  33% (  5 / 15) in 'Generics.Deriving.Enum'
+  Missing documentation for:
+    Module header
+    GEnum (src/Generics/Deriving/Enum.hs:151)
+    genumDefault (src/Generics/Deriving/Enum.hs:135)
+    toEnumDefault (src/Generics/Deriving/Enum.hs:138)
+    fromEnumDefault (src/Generics/Deriving/Enum.hs:144)
+    Enum' (src/Generics/Deriving/Enum.hs:117)
+    GIx (src/Generics/Deriving/Enum.hs:585)
+    rangeDefault (src/Generics/Deriving/Enum.hs:604)
+    indexDefault (src/Generics/Deriving/Enum.hs:613)
+    inRangeDefault (src/Generics/Deriving/Enum.hs:624)
+  43% (  3 /  7) in 'Generics.Deriving.Copoint'
+  Missing documentation for:
+    Module header
+    GCopoint (src/Generics/Deriving/Copoint.hs:95)
+    gcopointdefault (src/Generics/Deriving/Copoint.hs:103)
+    GCopoint' (src/Generics/Deriving/Copoint.hs:61)
+  80% (  4 /  5) in 'Generics.Deriving.ConNames'
+  Missing documentation for:
+    ConNames (src/Generics/Deriving/ConNames.hs:39)
+  61% ( 11 / 18) in 'Generics.Deriving.Monoid'
+  Missing documentation for:
+    GMonoid (src/Generics/Deriving/Monoid.hs:159)
+    gmemptydefault (src/Generics/Deriving/Monoid.hs:121)
+    gmappenddefault (src/Generics/Deriving/Monoid.hs:124)
+    GMonoid' (src/Generics/Deriving/Monoid.hs:99)
+    memptydefault (src/Generics/Deriving/Monoid.hs:151)
+    mappenddefault (src/Generics/Deriving/Monoid.hs:154)
+    Monoid' (src/Generics/Deriving/Monoid.hs:129)
+  43% (  3 /  7) in 'Generics.Deriving.Semigroup'
+  Missing documentation for:
+    Module header
+    GSemigroup (src/Generics/Deriving/Semigroup.hs:81)
+    gsappenddefault (src/Generics/Deriving/Semigroup.hs:111)
+    GSemigroup' (src/Generics/Deriving/Semigroup.hs:63)
+  43% (  3 /  7) in 'Generics.Deriving.Show'
+  Missing documentation for:
+    Module header
+    GShow (src/Generics/Deriving/Show.hs:182)
+    gshowsPrecdefault (src/Generics/Deriving/Show.hs:194)
+    GShow' (src/Generics/Deriving/Show.hs:92)
+Warning: 'GenericArity' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'Data' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'Constructor' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'Selector' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'Data' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'Constructor' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'Selector' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'Representable0' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'Representable1' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'Rep0' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'Rep1' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'Rep' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'from' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'to' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'from1' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'to1' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'f' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+ 100% ( 50 / 50) in 'Generics.Deriving.TH'
+  43% (  3 /  7) in 'Generics.Deriving.Traversable'
+  Missing documentation for:
+    Module header
+    GTraversable (src/Generics/Deriving/Traversable.hs:134)
+    gtraversedefault (src/Generics/Deriving/Traversable.hs:151)
+    GTraversable' (src/Generics/Deriving/Traversable.hs:80)
+  25% (  5 / 20) in 'Generics.Deriving.Uniplate'
+  Missing documentation for:
+    Uniplate (src/Generics/Deriving/Uniplate.hs:178)
+    uniplate (src/Generics/Deriving/Uniplate.hs:236)
+    universe (src/Generics/Deriving/Uniplate.hs:239)
+    rewrite (src/Generics/Deriving/Uniplate.hs:244)
+    rewriteM (src/Generics/Deriving/Uniplate.hs:249)
+    contexts (src/Generics/Deriving/Uniplate.hs:254)
+    holes (src/Generics/Deriving/Uniplate.hs:261)
+    para (src/Generics/Deriving/Uniplate.hs:267)
+    childrendefault (src/Generics/Deriving/Uniplate.hs:215)
+    contextdefault (src/Generics/Deriving/Uniplate.hs:218)
+    descenddefault (src/Generics/Deriving/Uniplate.hs:221)
+    descendMdefault (src/Generics/Deriving/Uniplate.hs:224)
+    transformdefault (src/Generics/Deriving/Uniplate.hs:227)
+    transformMdefault (src/Generics/Deriving/Uniplate.hs:230)
+    Uniplate' (src/Generics/Deriving/Uniplate.hs:69)
+  89% (  8 /  9) in 'Generics.Deriving'
+  Missing documentation for:
+    Module header
+Warning: Generics.Deriving.Show: could not find link destinations for:
+    Type
+Warning: Generics.Deriving.TH: could not find link destinations for:
+    Generic Generic1
+Warning: Generics.Deriving.Uniplate: could not find link destinations for:
+    Context'
+Documentation created:
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/generic-deriving/index.html,
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/generic-deriving/generic-deriving.txt
+Installing library in /Users/masa/.stack/snapshots/x86_64-osx/lts-13.0/8.6.3/lib/x86_64-osx-ghc-8.6.3/generic-deriving-1.12.2-APsF3FuzhX3JXL1eBKgjQ9
+Registering library for generic-deriving-1.12.2..

@@ -1,0 +1,60 @@
+name:                PFAD
+version:             0.1.0.0
+#synopsis:
+#description:
+homepage:            https://github.com/githubuser/PFAD#readme
+license:             BSD3
+author:              Author name here
+maintainer:          example@example.com
+copyright:           2018 Author name here
+category:            Web
+extra-source-files:
+- README.md
+
+dependencies:
+  - base >= 4.7 && < 5
+  - array
+  
+executables:
+  minfree:
+    main: app/Main.hs
+    ghc-options:
+    - -threaded
+    - -rtsopts
+    - -with-rtsopts=-N
+    dependencies:
+    - PFAD
+
+  minfree2:
+    main: app/Main2.hs
+    ghc-options:
+    - -threaded
+    - -rtsopts
+    - -with-rtsopts=-N
+    dependencies:
+    - PFAD
+
+library:
+  source-dirs: src
+
+tests:
+  PFAD-test:
+    main: Spec.hs
+    source-dirs: test
+    ghc-options:
+    - -threaded
+    - -rtsopts
+    - -with-rtsopts=-N
+    dependencies:
+    - PFAD
+    - hspec
+    - QuickCheck
+  PFAD-doctest:
+    main: test/doctests.hs
+    ghc-options:
+    - -threaded
+    - -rtsopts
+    - -with-rtsopts=-N
+    dependencies:
+    - PFAD
+    - doctest

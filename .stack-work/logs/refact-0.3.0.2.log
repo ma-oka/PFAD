@@ -1,0 +1,15 @@
+Configuring refact-0.3.0.2...
+Preprocessing library for refact-0.3.0.2..
+Building library for refact-0.3.0.2..
+[1 of 1] Compiling Refact.Types     ( src/Refact/Types.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Refact/Types.o )
+Preprocessing library for refact-0.3.0.2..
+Running Haddock on library for refact-0.3.0.2..
+Haddock coverage:
+  75% (  3 /  4) in 'Refact.Types'
+  Missing documentation for:
+    Module header
+Documentation created:
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/refact/index.html,
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/refact/refact.txt
+Installing library in /Users/masa/.stack/snapshots/x86_64-osx/lts-13.0/8.6.3/lib/x86_64-osx-ghc-8.6.3/refact-0.3.0.2-1sV84vP3OHo15p4d2xAoYA
+Registering library for refact-0.3.0.2..

@@ -1,0 +1,796 @@
+Configuring basement-0.0.8...
+Preprocessing library for basement-0.0.8..
+Building library for basement-0.0.8..
+[ 1 of 84] Compiling Basement.Compat.Bifunctor ( Basement/Compat/Bifunctor.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Compat/Bifunctor.o )
+[ 2 of 84] Compiling Basement.Compat.C.Types ( Basement/Compat/C/Types.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Compat/C/Types.o )
+[ 3 of 84] Compiling Basement.Compat.CallStack ( Basement/Compat/CallStack.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Compat/CallStack.o )
+[ 4 of 84] Compiling Basement.Compat.Identity ( Basement/Compat/Identity.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Compat/Identity.o )
+[ 5 of 84] Compiling Basement.Compat.IsList ( Basement/Compat/IsList.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Compat/IsList.o )
+[ 6 of 84] Compiling Basement.Compat.Natural ( Basement/Compat/Natural.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Compat/Natural.o )
+[ 7 of 84] Compiling Basement.Compat.NumLiteral ( Basement/Compat/NumLiteral.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Compat/NumLiteral.o )
+[ 8 of 84] Compiling Basement.Compat.PrimTypes ( Basement/Compat/PrimTypes.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Compat/PrimTypes.o )
+[ 9 of 84] Compiling Basement.Compat.Primitive ( Basement/Compat/Primitive.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Compat/Primitive.o )
+[10 of 84] Compiling Basement.Compat.Semigroup ( Basement/Compat/Semigroup.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Compat/Semigroup.o )
+[11 of 84] Compiling Basement.Compat.Typeable ( Basement/Compat/Typeable.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Compat/Typeable.o )
+[12 of 84] Compiling Basement.Compat.Base ( Basement/Compat/Base.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Compat/Base.o )
+[13 of 84] Compiling Basement.Compat.MonadTrans ( Basement/Compat/MonadTrans.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Compat/MonadTrans.o )
+[14 of 84] Compiling Basement.Compat.AMP ( Basement/Compat/AMP.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Compat/AMP.o )
+[15 of 84] Compiling Basement.Endianness ( Basement/Endianness.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Endianness.o )
+[16 of 84] Compiling Basement.Floating ( Basement/Floating.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Floating.o )
+[17 of 84] Compiling Basement.Monad   ( Basement/Monad.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Monad.o )
+[18 of 84] Compiling Basement.FinalPtr ( Basement/FinalPtr.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/FinalPtr.o )
+[19 of 84] Compiling Basement.Numerical.Conversion ( Basement/Numerical/Conversion.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Numerical/Conversion.o )
+[20 of 84] Compiling Basement.Numerical.Number ( Basement/Numerical/Number.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Numerical/Number.o )
+[21 of 84] Compiling Basement.IntegralConv ( Basement/IntegralConv.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/IntegralConv.o )
+[22 of 84] Compiling Basement.Types.Char7 ( Basement/Types/Char7.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Types/Char7.o )
+[23 of 84] Compiling Basement.Base16  ( Basement/Base16.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Base16.o )
+[24 of 84] Compiling Basement.Types.Word128 ( Basement/Types/Word128.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Types/Word128.o )
+[25 of 84] Compiling Basement.Types.Word256 ( Basement/Types/Word256.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Types/Word256.o )
+[26 of 84] Compiling Basement.Nat     ( Basement/Nat.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Nat.o )
+[27 of 84] Compiling Basement.Bounded ( Basement/Bounded.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Bounded.o )
+[28 of 84] Compiling Basement.Numerical.Subtractive ( Basement/Numerical/Subtractive.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Numerical/Subtractive.o )
+[29 of 84] Compiling Basement.Numerical.Additive ( Basement/Numerical/Additive.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Numerical/Additive.o )
+[30 of 84] Compiling Basement.Numerical.Multiplicative ( Basement/Numerical/Multiplicative.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Numerical/Multiplicative.o )
+[31 of 84] Compiling Basement.Types.OffsetSize ( Basement/Types/OffsetSize.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Types/OffsetSize.o )
+[32 of 84] Compiling Basement.Types.Ptr ( Basement/Types/Ptr.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Types/Ptr.o )
+[33 of 84] Compiling Basement.Terminal.Size ( .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Terminal/Size.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Terminal/Size.o )
+[34 of 84] Compiling Basement.Terminal ( Basement/Terminal.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Terminal.o )
+[35 of 84] Compiling Basement.Runtime ( Basement/Runtime.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Runtime.o )
+[36 of 84] Compiling Basement.PrimType ( Basement/PrimType.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/PrimType.o )
+[37 of 84] Compiling Basement.MutableBuilder ( Basement/MutableBuilder.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/MutableBuilder.o )
+[38 of 84] Compiling Basement.Exception ( Basement/Exception.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Exception.o )
+[39 of 84] Compiling Basement.NonEmpty ( Basement/NonEmpty.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/NonEmpty.o )
+[40 of 84] Compiling Basement.Bindings.Memory ( Basement/Bindings/Memory.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Bindings/Memory.o )
+[41 of 84] Compiling Basement.Alg.Class ( Basement/Alg/Class.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Alg/Class.o )
+[42 of 84] Compiling Basement.Compat.ExtList ( Basement/Compat/ExtList.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Compat/ExtList.o )
+[43 of 84] Compiling Basement.Alg.XorShift ( Basement/Alg/XorShift.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Alg/XorShift.o )
+[44 of 84] Compiling Basement.Alg.PrimArray ( Basement/Alg/PrimArray.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Alg/PrimArray.o )
+[45 of 84] Compiling Basement.Alg.Mutable ( Basement/Alg/Mutable.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Alg/Mutable.o )
+[46 of 84] Compiling Basement.NormalForm ( Basement/NormalForm.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/NormalForm.o )
+[47 of 84] Compiling Basement.These   ( Basement/These.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/These.o )
+[48 of 84] Compiling Basement.Sized.List ( Basement/Sized/List.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Sized/List.o )
+[49 of 84] Compiling Basement.Block.Base ( Basement/Block/Base.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Block/Base.o )
+[50 of 84] Compiling Basement.Cast    ( Basement/Cast.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Cast.o )
+[51 of 84] Compiling Basement.Block.Mutable ( Basement/Block/Mutable.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Block/Mutable.o )
+[52 of 84] Compiling Basement.Block   ( Basement/Block.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Block.o )
+[53 of 84] Compiling Basement.Sized.Block ( Basement/Sized/Block.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Sized/Block.o )
+[54 of 84] Compiling Basement.BlockN  ( Basement/BlockN.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/BlockN.o )
+[55 of 84] Compiling Basement.Bits    ( Basement/Bits.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Bits.o )
+[56 of 84] Compiling Basement.UArray.Base ( Basement/UArray/Base.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/UArray/Base.o )
+[57 of 84] Compiling Basement.BoxedArray ( Basement/BoxedArray.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/BoxedArray.o )
+[58 of 84] Compiling Basement.Sized.Vect ( Basement/Sized/Vect.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Sized/Vect.o )
+[59 of 84] Compiling Basement.UArray.Mutable ( Basement/UArray/Mutable.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/UArray/Mutable.o )
+[60 of 84] Compiling Basement.UArray  ( Basement/UArray.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/UArray.o )
+[61 of 84] Compiling Basement.Types.AsciiString ( Basement/Types/AsciiString.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Types/AsciiString.o )
+[62 of 84] Compiling Basement.String.Encoding.Encoding ( Basement/String/Encoding/Encoding.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/String/Encoding/Encoding.o )
+[63 of 84] Compiling Basement.String.Encoding.UTF32 ( Basement/String/Encoding/UTF32.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/String/Encoding/UTF32.o )
+[64 of 84] Compiling Basement.String.Encoding.UTF16 ( Basement/String/Encoding/UTF16.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/String/Encoding/UTF16.o )
+[65 of 84] Compiling Basement.String.Encoding.ISO_8859_1 ( Basement/String/Encoding/ISO_8859_1.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/String/Encoding/ISO_8859_1.o )
+[66 of 84] Compiling Basement.String.Encoding.ASCII7 ( Basement/String/Encoding/ASCII7.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/String/Encoding/ASCII7.o )
+[67 of 84] Compiling Basement.Sized.UVect ( Basement/Sized/UVect.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Sized/UVect.o )
+[68 of 84] Compiling Basement.UTF8.Types ( Basement/UTF8/Types.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/UTF8/Types.o )
+[69 of 84] Compiling Basement.UTF8.Table ( Basement/UTF8/Table.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/UTF8/Table.o )
+[70 of 84] Compiling Basement.UTF8.Helper ( Basement/UTF8/Helper.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/UTF8/Helper.o )
+[71 of 84] Compiling Basement.Types.CharUTF8 ( Basement/Types/CharUTF8.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Types/CharUTF8.o )
+[72 of 84] Compiling Basement.String.CaseMapping ( Basement/String/CaseMapping.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/String/CaseMapping.o )
+[73 of 84] Compiling Basement.Alg.UTF8 ( Basement/Alg/UTF8.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Alg/UTF8.o )
+[74 of 84] Compiling Basement.UTF8.Base ( Basement/UTF8/Base.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/UTF8/Base.o )
+[75 of 84] Compiling Basement.Show    ( Basement/Show.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Show.o )
+[76 of 84] Compiling Basement.Error   ( Basement/Error.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Error.o )
+[77 of 84] Compiling Basement.Imports ( Basement/Imports.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Imports.o )
+[78 of 84] Compiling Basement.Environment ( Basement/Environment.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Environment.o )
+[79 of 84] Compiling Basement.Alg.String ( Basement/Alg/String.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Alg/String.o )
+[80 of 84] Compiling Basement.String  ( Basement/String.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/String.o )
+[81 of 84] Compiling Basement.Terminal.ANSI ( Basement/Terminal/ANSI.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Terminal/ANSI.o )
+[82 of 84] Compiling Basement.From    ( Basement/From.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/From.o )
+[83 of 84] Compiling Basement.Block.Builder ( Basement/Block/Builder.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/Block/Builder.o )
+[84 of 84] Compiling Basement.String.Builder ( Basement/String/Builder.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Basement/String/Builder.o )
+/Library/Developer/CommandLineTools/usr/bin/ranlib: file: .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/objs-1304/libHSbasement-0.0.8-LdnmevtSRu4FZXxmMQJlGY.a(foundation_rts.o) has no symbols
+Preprocessing library for basement-0.0.8..
+Running Haddock on library for basement-0.0.8..
+Haddock coverage:
+Warning: 'Functor' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'Either' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'Left' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'Right' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+ 100% (  2 /  2) in 'Basement.Compat.Bifunctor'
+  79% ( 23 / 29) in 'Basement.Compat.C.Types'
+  Missing documentation for:
+    CIntPtr
+    CUIntPtr
+    CIntMax
+    CUIntMax
+    COff
+    CMode
+  50% (  1 /  2) in 'Basement.Compat.CallStack'
+  Missing documentation for:
+    Module header
+ 100% (  2 /  2) in 'Basement.Compat.Identity'
+ 100% (  2 /  2) in 'Basement.Compat.IsList'
+  25% (  1 /  4) in 'Basement.Compat.Natural'
+  Missing documentation for:
+    Module header
+    integerToNatural (Basement/Compat/Natural.hs:57)
+    naturalToInteger (Basement/Compat/Natural.hs:60)
+ 100% (  4 /  4) in 'Basement.Compat.NumLiteral'
+ 100% (  6 /  6) in 'Basement.Compat.PrimTypes'
+  60% (  9 / 15) in 'Basement.Compat.Primitive'
+  Missing documentation for:
+    toPinnedStatus# (Basement/Compat/Primitive.hs:48)
+    compatGetSizeofMutableByteArray# (Basement/Compat/Primitive.hs:127)
+    compatShrinkMutableByteArray# (Basement/Compat/Primitive.hs:135)
+    compatResizeMutableByteArray# (Basement/Compat/Primitive.hs:148)
+    compatIsByteArrayPinned# (Basement/Compat/Primitive.hs:165)
+    compatIsMutableByteArrayPinned# (Basement/Compat/Primitive.hs:168)
+  33% (  1 /  3) in 'Basement.Compat.Semigroup'
+  Missing documentation for:
+    Module header
+    ListNonEmpty (Basement/Compat/Semigroup.hs:16)
+ 100% (  2 /  2) in 'Basement.Compat.Typeable'
+  97% ( 65 / 67) in 'Basement.Compat.Base'
+  Missing documentation for:
+    Ordering
+    Bool
+ 100% (  3 /  3) in 'Basement.Compat.MonadTrans'
+   0% (  0 /  2) in 'Basement.Compat.AMP'
+  Missing documentation for:
+    Module header
+    AMPMonad (Basement/Compat/AMP.hs:11)
+  92% ( 12 / 13) in 'Basement.Endianness'
+  Missing documentation for:
+    Endianness (Basement/Endianness.hs:46)
+   0% (  0 / 10) in 'Basement.Floating'
+  Missing documentation for:
+    Module header
+    integerToDouble (Basement/Floating.hs:26)
+    naturalToDouble (Basement/Floating.hs:31)
+    doubleExponant (Basement/Floating.hs:34)
+    integerToFloat (Basement/Floating.hs:37)
+    naturalToFloat (Basement/Floating.hs:40)
+    wordToFloat (Basement/Floating.hs:43)
+    floatToWord (Basement/Floating.hs:51)
+    wordToDouble (Basement/Floating.hs:59)
+    doubleToWord (Basement/Floating.hs:67)
+Warning: 'unwrapPrimMonad' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+ 100% (  9 /  9) in 'Basement.Monad'
+Warning: 'f' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+  80% (  8 / 10) in 'Basement.FinalPtr'
+  Missing documentation for:
+    touchFinalPtr (Basement/FinalPtr.hs:91)
+    withFinalPtrNoTouch (Basement/FinalPtr.hs:73)
+  67% (  2 /  3) in 'Basement.Numerical.Number'
+  Missing documentation for:
+    Module header
+Warning: 'b' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'a' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+  25% (  3 / 12) in 'Basement.IntegralConv'
+  Missing documentation for:
+    Module header
+    intToInt64 (Basement/Numerical/Conversion.hs:30)
+    int64ToInt (Basement/Numerical/Conversion.hs:37)
+    wordToWord64 (Basement/Numerical/Conversion.hs:44)
+    word64ToWord32s (Basement/Numerical/Conversion.hs:83)
+    word64ToWord (Basement/Numerical/Conversion.hs:51)
+    wordToChar (Basement/Numerical/Conversion.hs:90)
+    wordToInt (Basement/Numerical/Conversion.hs:93)
+    charToInt (Basement/Numerical/Conversion.hs:99)
+Warning: 'Byte' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+  29% (  8 / 28) in 'Basement.Types.Char7'
+  Missing documentation for:
+    Module header
+    c7_LF (Basement/Types/Char7.hs:72)
+    c7_CR (Basement/Types/Char7.hs:75)
+    c7_minus (Basement/Types/Char7.hs:78)
+    c7_a (Basement/Types/Char7.hs:81)
+    c7_A (Basement/Types/Char7.hs:84)
+    c7_z (Basement/Types/Char7.hs:87)
+    c7_Z (Basement/Types/Char7.hs:90)
+    c7_0 (Basement/Types/Char7.hs:93)
+    c7_1 (Basement/Types/Char7.hs:93)
+    c7_2 (Basement/Types/Char7.hs:93)
+    c7_3 (Basement/Types/Char7.hs:93)
+    c7_4 (Basement/Types/Char7.hs:93)
+    c7_5 (Basement/Types/Char7.hs:93)
+    c7_6 (Basement/Types/Char7.hs:93)
+    c7_7 (Basement/Types/Char7.hs:93)
+    c7_8 (Basement/Types/Char7.hs:93)
+    c7_9 (Basement/Types/Char7.hs:93)
+    c7Upper (Basement/Types/Char7.hs:111)
+    c7Lower (Basement/Types/Char7.hs:105)
+  50% (  3 /  6) in 'Basement.Base16'
+  Missing documentation for:
+    Module header
+    escapeByte (Basement/Base16.hs:33)
+    Base16Escape (Basement/Base16.hs:17)
+  88% ( 15 / 17) in 'Basement.Types.Word128'
+  Missing documentation for:
+    Module header
+    fromNatural (Basement/Types/Word128.hs:246)
+  88% ( 15 / 17) in 'Basement.Types.Word256'
+  Missing documentation for:
+    Module header
+    fromNatural (Basement/Types/Word256.hs:319)
+Warning: 'n' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'ty' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+  57% ( 16 / 28) in 'Basement.Nat'
+  Missing documentation for:
+    Module header
+    natValNatural (Basement/Nat.hs:55)
+    natValInt (Basement/Nat.hs:58)
+    natValInt8 (Basement/Nat.hs:70)
+    natValInt16 (Basement/Nat.hs:67)
+    natValInt32 (Basement/Nat.hs:64)
+    natValInt64 (Basement/Nat.hs:61)
+    natValWord (Basement/Nat.hs:73)
+    natValWord8 (Basement/Nat.hs:85)
+    natValWord16 (Basement/Nat.hs:82)
+    natValWord32 (Basement/Nat.hs:79)
+    natValWord64 (Basement/Nat.hs:76)
+  78% (  7 /  9) in 'Basement.Bounded'
+  Missing documentation for:
+    unZn64 (Basement/Bounded.hs:34)
+    unZn (Basement/Bounded.hs:72)
+  50% (  1 /  2) in 'Basement.Numerical.Subtractive'
+  Missing documentation for:
+    Module header
+  50% (  1 /  2) in 'Basement.Numerical.Additive'
+  Missing documentation for:
+    Module header
+  60% (  3 /  5) in 'Basement.Numerical.Multiplicative'
+  Missing documentation for:
+    Module header
+    recip (Basement/Numerical/Multiplicative.hs:310)
+Warning: 'ty' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+  26% (  8 / 31) in 'Basement.Types.OffsetSize'
+  Missing documentation for:
+    sentinel (Basement/Types/OffsetSize.hs:90)
+    offsetOfE (Basement/Types/OffsetSize.hs:109)
+    offsetPlusE (Basement/Types/OffsetSize.hs:112)
+    offsetMinusE (Basement/Types/OffsetSize.hs:115)
+    offsetRecast (Basement/Types/OffsetSize.hs:125)
+    offsetCast (Basement/Types/OffsetSize.hs:136)
+    offsetShiftL (Basement/Types/OffsetSize.hs:133)
+    offsetShiftR (Basement/Types/OffsetSize.hs:130)
+    sizeCast (Basement/Types/OffsetSize.hs:140)
+    sizeLastOffset (Basement/Types/OffsetSize.hs:156)
+    sizeAsOffset (Basement/Types/OffsetSize.hs:161)
+    offsetAsSize (Basement/Types/OffsetSize.hs:165)
+    +. (Basement/Types/OffsetSize.hs:100)
+    .==# (Basement/Types/OffsetSize.hs:105)
+    sizeOfE (Basement/Types/OffsetSize.hs:214)
+    csizeOfOffset (Basement/Types/OffsetSize.hs:232)
+    csizeOfSize (Basement/Types/OffsetSize.hs:225)
+    sizeOfCSSize (Basement/Types/OffsetSize.hs:239)
+    sizeOfCSize (Basement/Types/OffsetSize.hs:247)
+    Countable (Basement/Types/OffsetSize.hs:263)
+    Offsetable (Basement/Types/OffsetSize.hs:264)
+    natValCountOf (Basement/Types/OffsetSize.hs:254)
+    natValOffset (Basement/Types/OffsetSize.hs:257)
+  20% (  2 / 10) in 'Basement.Types.Ptr'
+  Missing documentation for:
+    Module header
+    Addr (Basement/Types/Ptr.hs:21)
+    addrPlus (Basement/Types/Ptr.hs:24)
+    addrPlusSz (Basement/Types/Ptr.hs:27)
+    addrPlusCSz (Basement/Types/Ptr.hs:30)
+    ptrPlus (Basement/Types/Ptr.hs:33)
+    ptrPlusSz (Basement/Types/Ptr.hs:36)
+    ptrPlusCSz (Basement/Types/Ptr.hs:39)
+  33% (  1 /  3) in 'Basement.Terminal'
+  Missing documentation for:
+    Module header
+    initialize (Basement/Terminal.hs:14)
+Warning: 'ty' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+  14% (  3 / 21) in 'Basement.PrimType'
+  Missing documentation for:
+    Module header
+    primBaIndex (Basement/PrimType.hs:134)
+    primMbaRead (Basement/PrimType.hs:138)
+    primMbaWrite (Basement/PrimType.hs:142)
+    primArrayIndex (Basement/PrimType.hs:146)
+    primMutableArrayRead (Basement/PrimType.hs:150)
+    primMutableArrayWrite (Basement/PrimType.hs:154)
+    primOffsetOfE (Basement/PrimType.hs:742)
+    primOffsetRecast (Basement/PrimType.hs:718)
+    offsetAsSize (Basement/Types/OffsetSize.hs:165)
+    sizeAsOffset (Basement/Types/OffsetSize.hs:161)
+    sizeInBytes (Basement/PrimType.hs:699)
+    offsetInBytes (Basement/PrimType.hs:702)
+    offsetInElements (Basement/PrimType.hs:710)
+    offsetIsAligned (Basement/PrimType.hs:728)
+    primWordGetByteAndShift (Basement/PrimType.hs:746)
+    primWord64GetByteAndShift (Basement/PrimType.hs:751)
+    primWord64GetHiLo (Basement/PrimType.hs:754)
+  33% (  1 /  3) in 'Basement.MutableBuilder'
+  Missing documentation for:
+    Module header
+    Builder (Basement/MutableBuilder.hs:12)
+  40% (  4 / 10) in 'Basement.Exception'
+  Missing documentation for:
+    isOutOfBound (Basement/Exception.hs:53)
+    outOfBound (Basement/Exception.hs:45)
+    primOutOfBound (Basement/Exception.hs:49)
+    InvalidRecast (Basement/Exception.hs:62)
+    RecastSourceSize (Basement/Exception.hs:57)
+    RecastDestinationSize (Basement/Exception.hs:59)
+ 100% (  2 /  2) in 'Basement.NonEmpty'
+  33% (  2 /  6) in 'Basement.Compat.ExtList'
+  Missing documentation for:
+    Module header
+    null (Basement/Compat/ExtList.hs:25)
+    reverse (Basement/Compat/ExtList.hs:38)
+    !! (Basement/Compat/ExtList.hs:44)
+Warning: 'f' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+ 100% (  5 /  5) in 'Basement.Alg.XorShift'
+  25% (  1 /  4) in 'Basement.NormalForm'
+  Missing documentation for:
+    Module header
+    deepseq (Basement/NormalForm.hs:22)
+    force (Basement/NormalForm.hs:25)
+ 100% (  2 /  2) in 'Basement.These'
+Warning: 'scanl' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'scanl1' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+  98% ( 52 / 53) in 'Basement.Sized.List'
+  Missing documentation for:
+    unListN (Basement/Sized/List.hs:91)
+Warning: 'ty' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'index' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'read' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'write' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'f' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'From' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'TryFrom' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+ 100% (  2 /  2) in 'Basement.Cast'
+Warning: 'ty' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+  86% ( 24 / 28) in 'Basement.Block.Mutable'
+  Missing documentation for:
+    mutableLengthSize (Basement/Block/Mutable.hs:92)
+    mutableLengthBytes (Basement/Block/Base.hs:116)
+    mutableEmpty (Basement/Block/Base.hs:130)
+    unsafeCopyElementsRO (Basement/Block/Base.hs:318)
+Warning: 'a' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'b' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+  42% ( 20 / 48) in 'Basement.Block'
+  Missing documentation for:
+    length (Basement/Block/Base.hs:97)
+    isPinned (Basement/Block/Base.hs:91)
+    isMutablePinned (Basement/Block/Base.hs:94)
+    singleton (Basement/Block.hs:125)
+    replicate (Basement/Block.hs:128)
+    foldl' (Basement/Block.hs:184)
+    foldr (Basement/Block.hs:175)
+    foldl1' (Basement/Block.hs:193)
+    foldr1 (Basement/Block.hs:202)
+    cons (Basement/Block.hs:206)
+    snoc (Basement/Block.hs:217)
+    uncons (Basement/Block.hs:240)
+    unsnoc (Basement/Block.hs:247)
+    sub (Basement/Block.hs:228)
+    splitAt (Basement/Block.hs:253)
+    revSplitAt (Basement/Block.hs:265)
+    splitOn (Basement/Block.hs:324)
+    break (Basement/Block.hs:271)
+    breakEnd (Basement/Block.hs:282)
+    span (Basement/Block.hs:291)
+    elem (Basement/Block.hs:294)
+    all (Basement/Block.hs:304)
+    any (Basement/Block.hs:314)
+    find (Basement/Block.hs:339)
+    filter (Basement/Block.hs:349)
+    reverse (Basement/Block.hs:352)
+    sortBy (Basement/Block.hs:371)
+    intersperse (Basement/Block.hs:381)
+Warning: 'ty' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'f' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+  19% (  7 / 36) in 'Basement.Sized.Block'
+  Missing documentation for:
+    MutableBlockN (Basement/Sized/Block.hs:74)
+    length (Basement/Sized/Block.hs:83)
+    lengthBytes (Basement/Sized/Block.hs:89)
+    toBlockN (Basement/Sized/Block.hs:76)
+    toBlock (Basement/Sized/Block.hs:95)
+    singleton (Basement/Sized/Block.hs:131)
+    replicate (Basement/Sized/Block.hs:134)
+    thaw (Basement/Sized/Block.hs:137)
+    freeze (Basement/Sized/Block.hs:140)
+    index (Basement/Sized/Block.hs:146)
+    indexStatic (Basement/Sized/Block.hs:143)
+    map (Basement/Sized/Block.hs:149)
+    foldl' (Basement/Sized/Block.hs:152)
+    foldr (Basement/Sized/Block.hs:155)
+    cons (Basement/Sized/Block.hs:158)
+    snoc (Basement/Sized/Block.hs:161)
+    elem (Basement/Sized/Block.hs:194)
+    sub (Basement/Sized/Block.hs:164)
+    uncons (Basement/Sized/Block.hs:177)
+    unsnoc (Basement/Sized/Block.hs:182)
+    splitAt (Basement/Sized/Block.hs:189)
+    all (Basement/Sized/Block.hs:197)
+    any (Basement/Sized/Block.hs:200)
+    find (Basement/Sized/Block.hs:203)
+    reverse (Basement/Sized/Block.hs:206)
+    sortBy (Basement/Sized/Block.hs:209)
+    intersperse (Basement/Sized/Block.hs:212)
+    cast (Basement/Sized/Block.hs:98)
+    mutableCast (Basement/Sized/Block.hs:107)
+ 100% (  2 /  2) in 'Basement.BlockN'
+Warning: 'n' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+ 100% (  6 /  6) in 'Basement.Bits'
+Warning: 'read' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'write' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'index' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+  29% ( 17 / 58) in 'Basement.BoxedArray'
+  Missing documentation for:
+    empty (Basement/BoxedArray.hs:354)
+    length (Basement/BoxedArray.hs:357)
+    freeze (Basement/BoxedArray.hs:243)
+    singleton (Basement/BoxedArray.hs:570)
+    replicate (Basement/BoxedArray.hs:576)
+    null (Basement/BoxedArray.hs:445)
+    take (Basement/BoxedArray.hs:448)
+    drop (Basement/BoxedArray.hs:456)
+    splitAt (Basement/BoxedArray.hs:462)
+    revTake (Basement/BoxedArray.hs:476)
+    revDrop (Basement/BoxedArray.hs:479)
+    revSplitAt (Basement/BoxedArray.hs:482)
+    splitOn (Basement/BoxedArray.hs:485)
+    sub (Basement/BoxedArray.hs:501)
+    intersperse (Basement/BoxedArray.hs:532)
+    span (Basement/BoxedArray.hs:550)
+    spanEnd (Basement/BoxedArray.hs:553)
+    break (Basement/BoxedArray.hs:509)
+    breakEnd (Basement/BoxedArray.hs:520)
+    mapFromUnboxed (Basement/BoxedArray.hs:559)
+    mapToUnboxed (Basement/BoxedArray.hs:562)
+    cons (Basement/BoxedArray.hs:579)
+    snoc (Basement/BoxedArray.hs:590)
+    uncons (Basement/BoxedArray.hs:601)
+    unsnoc (Basement/BoxedArray.hs:608)
+    sortBy (Basement/BoxedArray.hs:639)
+    filter (Basement/BoxedArray.hs:648)
+    reverse (Basement/BoxedArray.hs:671)
+    elem (Basement/BoxedArray.hs:615)
+    find (Basement/BoxedArray.hs:624)
+    foldl' (Basement/BoxedArray.hs:685)
+    foldr (Basement/BoxedArray.hs:677)
+    foldl1' (Basement/BoxedArray.hs:693)
+    foldr1 (Basement/BoxedArray.hs:697)
+    all (Basement/BoxedArray.hs:701)
+    any (Basement/BoxedArray.hs:710)
+    isPrefixOf (Basement/BoxedArray.hs:719)
+    isSuffixOf (Basement/BoxedArray.hs:727)
+    builderAppend (Basement/BoxedArray.hs:735)
+    builderBuild (Basement/BoxedArray.hs:750)
+    builderBuild_ (Basement/BoxedArray.hs:774)
+   0% (  0 / 27) in 'Basement.Sized.Vect'
+  Missing documentation for:
+    Module header
+    Vect (Basement/Sized/Vect.hs:47)
+    MVect (Basement/Sized/Vect.hs:48)
+    unVect (Basement/Sized/Vect.hs:47)
+    toVect (Basement/Sized/Vect.hs:53)
+    empty (Basement/Sized/Vect.hs:60)
+    singleton (Basement/Sized/Vect.hs:63)
+    replicate (Basement/Sized/Vect.hs:71)
+    thaw (Basement/Sized/Vect.hs:74)
+    freeze (Basement/Sized/Vect.hs:77)
+    index (Basement/Sized/Vect.hs:89)
+    map (Basement/Sized/Vect.hs:92)
+    foldl' (Basement/Sized/Vect.hs:95)
+    foldr (Basement/Sized/Vect.hs:98)
+    cons (Basement/Sized/Vect.hs:101)
+    snoc (Basement/Sized/Vect.hs:104)
+    elem (Basement/Sized/Vect.hs:136)
+    sub (Basement/Sized/Vect.hs:107)
+    uncons (Basement/Sized/Vect.hs:119)
+    unsnoc (Basement/Sized/Vect.hs:124)
+    splitAt (Basement/Sized/Vect.hs:131)
+    all (Basement/Sized/Vect.hs:139)
+    any (Basement/Sized/Vect.hs:142)
+    find (Basement/Sized/Vect.hs:145)
+    reverse (Basement/Sized/Vect.hs:148)
+    sortBy (Basement/Sized/Vect.hs:151)
+    intersperse (Basement/Sized/Vect.hs:154)
+Warning: 'f' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+  67% ( 16 / 24) in 'Basement.UArray.Mutable'
+  Missing documentation for:
+    sizeInMutableBytesOfContent (Basement/UArray/Mutable.hs:60)
+    mutableOffset (Basement/UArray/Mutable.hs:179)
+    mutableSame (Basement/UArray/Mutable.hs:88)
+    onMutableBackend (Basement/UArray/Base.hs:318)
+    newNative (Basement/UArray/Base.hs:184)
+    mutableForeignMem (Basement/UArray/Mutable.hs:93)
+    sub (Basement/UArray/Mutable.hs:99)
+    withMutablePtrHint (Basement/UArray/Mutable.hs:117)
+Warning: 'ByteString' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'filler' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'a' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'b' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'needle' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'replacement' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'haystack' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+  48% ( 42 / 88) in 'Basement.UArray'
+  Missing documentation for:
+    length (Basement/UArray/Base.hs:144)
+    sub (Basement/UArray.hs:485)
+    unsafeFreezeShrink (Basement/UArray/Base.hs:254)
+    unsafeUpdate (Basement/UArray.hs:284)
+    unsafeIndexer (Basement/UArray/Base.hs:239)
+    unsafeDewrap (Basement/UArray/Base.hs:328)
+    equalMemcmp (Basement/UArray/Base.hs:448)
+    singleton (Basement/UArray.hs:264)
+    replicate (Basement/UArray.hs:267)
+    map (Basement/UArray.hs:581)
+    mapIndex (Basement/UArray.hs:585)
+    findIndex (Basement/UArray.hs:493)
+    revFindIndex (Basement/UArray.hs:501)
+    null (Basement/UArray.hs:359)
+    unsafeTake (Basement/UArray.hs:369)
+    unsafeDrop (Basement/UArray.hs:379)
+    splitOn (Basement/UArray.hs:467)
+    break (Basement/UArray.hs:509)
+    breakElem (Basement/UArray.hs:392)
+    elem (Basement/UArray.hs:553)
+    indices (Basement/UArray.hs:694)
+    intersperse (Basement/UArray.hs:557)
+    span (Basement/UArray.hs:575)
+    spanEnd (Basement/UArray.hs:578)
+    cons (Basement/UArray.hs:588)
+    snoc (Basement/UArray.hs:599)
+    uncons (Basement/UArray.hs:610)
+    unsnoc (Basement/UArray.hs:617)
+    find (Basement/UArray.hs:623)
+    sortBy (Basement/UArray.hs:633)
+    filter (Basement/UArray.hs:648)
+    reverse (Basement/UArray.hs:661)
+    foldr (Basement/UArray.hs:761)
+    foldl' (Basement/UArray.hs:769)
+    foldr1 (Basement/UArray.hs:777)
+    foldl1' (Basement/UArray.hs:773)
+    all (Basement/UArray.hs:781)
+    any (Basement/UArray.hs:785)
+    isPrefixOf (Basement/UArray.hs:925)
+    isSuffixOf (Basement/UArray.hs:934)
+    foreignMem (Basement/UArray.hs:153)
+    builderAppend (Basement/UArray.hs:789)
+    builderBuild (Basement/UArray.hs:804)
+    builderBuild_ (Basement/UArray.hs:828)
+    toHexadecimal (Basement/UArray.hs:831)
+    toBase64Internal (Basement/UArray.hs:855)
+Warning: 'ASCII' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+  83% (  5 /  6) in 'Basement.Types.AsciiString'
+  Missing documentation for:
+    MutableAsciiString (Basement/Types/AsciiString.hs:35)
+Warning: 'unsafeIndexer' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+   0% (  0 / 27) in 'Basement.Sized.UVect'
+  Missing documentation for:
+    Module header
+    UVect (Basement/Sized/UVect.hs:47)
+    MUVect (Basement/Sized/UVect.hs:48)
+    unUVect (Basement/Sized/UVect.hs:47)
+    toUVect (Basement/Sized/UVect.hs:50)
+    empty (Basement/Sized/UVect.hs:57)
+    singleton (Basement/Sized/UVect.hs:60)
+    replicate (Basement/Sized/UVect.hs:68)
+    thaw (Basement/Sized/UVect.hs:71)
+    freeze (Basement/Sized/UVect.hs:74)
+    index (Basement/Sized/UVect.hs:86)
+    map (Basement/Sized/UVect.hs:89)
+    foldl' (Basement/Sized/UVect.hs:92)
+    foldr (Basement/Sized/UVect.hs:95)
+    cons (Basement/Sized/UVect.hs:98)
+    snoc (Basement/Sized/UVect.hs:101)
+    elem (Basement/Sized/UVect.hs:134)
+    sub (Basement/Sized/UVect.hs:104)
+    uncons (Basement/Sized/UVect.hs:117)
+    unsnoc (Basement/Sized/UVect.hs:122)
+    splitAt (Basement/Sized/UVect.hs:129)
+    all (Basement/Sized/UVect.hs:137)
+    any (Basement/Sized/UVect.hs:140)
+    find (Basement/Sized/UVect.hs:143)
+    reverse (Basement/Sized/UVect.hs:146)
+    sortBy (Basement/Sized/UVect.hs:149)
+    intersperse (Basement/Sized/UVect.hs:152)
+Warning: 'A' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: '𐍈' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+  75% (  3 /  4) in 'Basement.Types.CharUTF8'
+  Missing documentation for:
+    Module header
+  97% ( 76 / 78) in 'Basement.Imports'
+  Missing documentation for:
+    Ordering
+    Bool
+  67% (  2 /  3) in 'Basement.Environment'
+  Missing documentation for:
+    Module header
+Warning: 'MutableByteArray' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'needle' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'replacement' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'haystack' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'e' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'E' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'acc' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+  92% ( 67 / 73) in 'Basement.String'
+  Missing documentation for:
+    indices (Basement/String.hs:815)
+    breakEnd (Basement/String.hs:472)
+    builderBuild_ (Basement/String.hs:1057)
+    readInteger (Basement/String.hs:1093)
+    all (Basement/String.hs:1429)
+    any (Basement/String.hs:1436)
+  29% (  9 / 31) in 'Basement.Terminal.ANSI'
+  Missing documentation for:
+    Escape (Basement/Terminal/ANSI.hs:62)
+    Displacement (Basement/Terminal/ANSI.hs:64)
+    cursorUp (Basement/Terminal/ANSI.hs:75)
+    cursorDown (Basement/Terminal/ANSI.hs:75)
+    cursorForward (Basement/Terminal/ANSI.hs:75)
+    cursorBack (Basement/Terminal/ANSI.hs:75)
+    cursorNextLine (Basement/Terminal/ANSI.hs:75)
+    cursorPrevLine (Basement/Terminal/ANSI.hs:75)
+    cursorHorizontalAbsolute (Basement/Terminal/ANSI.hs:75)
+    cursorPosition (Basement/Terminal/ANSI.hs:86)
+    eraseScreenFromCursor (Basement/Terminal/ANSI.hs:89)
+    eraseScreenToCursor (Basement/Terminal/ANSI.hs:89)
+    eraseScreenAll (Basement/Terminal/ANSI.hs:89)
+    eraseLineFromCursor (Basement/Terminal/ANSI.hs:89)
+    eraseLineToCursor (Basement/Terminal/ANSI.hs:89)
+    eraseLineAll (Basement/Terminal/ANSI.hs:89)
+    scrollUp (Basement/Terminal/ANSI.hs:102)
+    scrollDown (Basement/Terminal/ANSI.hs:102)
+    sgrForegroundGray24 (Basement/Terminal/ANSI.hs:124)
+    sgrBackgroundGray24 (Basement/Terminal/ANSI.hs:124)
+    sgrForegroundColor216 (Basement/Terminal/ANSI.hs:128)
+    sgrBackgroundColor216 (Basement/Terminal/ANSI.hs:134)
+  71% (  5 /  7) in 'Basement.From'
+  Missing documentation for:
+    Into (Basement/From.hs:73)
+    TryInto (Basement/From.hs:90)
+  80% (  8 / 10) in 'Basement.Block.Builder'
+  Missing documentation for:
+    Builder (Basement/Block/Builder.hs:52)
+    emitPrim (Basement/Block/Builder.hs:119)
+  67% (  6 /  9) in 'Basement.String.Builder'
+  Missing documentation for:
+    Builder (Basement/String/Builder.hs:33)
+    run (Basement/String/Builder.hs:40)
+    unsafeStringBuilder (Basement/String/Builder.hs:36)
+Warning: Basement.Compat.Identity: could not find link destinations for:
+    unsafeIndex unsafeRangeSize
+Warning: Basement.Compat.Natural: could not find link destinations for:
+    unsafeIndex unsafeRangeSize
+Warning: Basement.Compat.Primitive: could not find link destinations for:
+    unsafeIndex unsafeRangeSize D:R:UReckWordp0
+Warning: Basement.Compat.Typeable: could not find link destinations for:
+    typeRep#
+Warning: Basement.Compat.Base: could not find link destinations for:
+    Array STArray SizeValid SingKind fromSing Sing DemoteRep SingI sing D:R:SingMaybeb0 SNothing SJust unsafeIndex unsafeRangeSize D:R:SingBoola0 STrue SFalse D:R:UReckIntp0 D:R:UReckCharp0 byteSwap D:R:UReckWordp0 D:R:UReckDoublep0 D:R:UReckFloatp0 typeRep# D:R:UReckPtrp0
+Warning: Basement.Endianness: could not find link destinations for:
+    byteSwap
+Warning: Basement.Nat: could not find link destinations for:
+    natSing
+Warning: Basement.Numerical.Subtractive: could not find link destinations for:
+    SizeValid
+Warning: Basement.Numerical.Additive: could not find link destinations for:
+    SizeValid
+Warning: Basement.Numerical.Multiplicative: could not find link destinations for:
+    SizeValid
+Warning: Basement.Types.Ptr: could not find link destinations for:
+    D:R:UReckPtrp0
+Warning: Basement.Bits: could not find link destinations for:
+    SizeValid
+Warning: Basement.UArray.Mutable: could not find link destinations for:
+    MUArrayBackend
+Warning: Basement.UArray: could not find link destinations for:
+    UArrayBackend
+Warning: Basement.Imports: could not find link destinations for:
+    Array STArray SizeValid SingKind fromSing Sing DemoteRep SingI sing D:R:SingMaybeb0 SNothing SJust unsafeIndex unsafeRangeSize D:R:SingBoola0 STrue SFalse D:R:UReckIntp0 D:R:UReckCharp0 byteSwap D:R:UReckWordp0 D:R:UReckDoublep0 D:R:UReckFloatp0 typeRep# D:R:UReckPtrp0
+Warning: Basement.String: could not find link destinations for:
+    validate ReadFloatingCallback
+Documentation created:
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/basement/index.html,
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/basement/basement.txt
+Installing library in /Users/masa/.stack/snapshots/x86_64-osx/lts-13.0/8.6.3/lib/x86_64-osx-ghc-8.6.3/basement-0.0.8-LdnmevtSRu4FZXxmMQJlGY
+Registering library for basement-0.0.8..

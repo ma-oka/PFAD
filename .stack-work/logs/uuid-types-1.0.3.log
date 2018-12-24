@@ -1,0 +1,21 @@
+Configuring uuid-types-1.0.3...
+Preprocessing library for uuid-types-1.0.3..
+Building library for uuid-types-1.0.3..
+[1 of 3] Compiling Data.UUID.Types.Internal.Builder ( Data/UUID/Types/Internal/Builder.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/UUID/Types/Internal/Builder.o )
+[2 of 3] Compiling Data.UUID.Types.Internal ( Data/UUID/Types/Internal.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/UUID/Types/Internal.o )
+[3 of 3] Compiling Data.UUID.Types  ( Data/UUID/Types.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Data/UUID/Types.o )
+Preprocessing library for uuid-types-1.0.3..
+Running Haddock on library for uuid-types-1.0.3..
+Haddock coverage:
+Warning: 'u' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'ByteString' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+ 100% ( 16 / 16) in 'Data.UUID.Types'
+Documentation created:
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/uuid-types/index.html,
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/uuid-types/uuid-types.txt
+Installing library in /Users/masa/.stack/snapshots/x86_64-osx/lts-13.0/8.6.3/lib/x86_64-osx-ghc-8.6.3/uuid-types-1.0.3-Awdp9gd30rf4a5QKzt7fjH
+Registering library for uuid-types-1.0.3..

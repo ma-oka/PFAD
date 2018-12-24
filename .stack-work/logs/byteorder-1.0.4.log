@@ -1,0 +1,15 @@
+Configuring byteorder-1.0.4...
+Preprocessing library for byteorder-1.0.4..
+Building library for byteorder-1.0.4..
+[1 of 1] Compiling System.ByteOrder ( System/ByteOrder.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/System/ByteOrder.o )
+Preprocessing library for byteorder-1.0.4..
+Running Haddock on library for byteorder-1.0.4..
+Haddock coverage:
+  67% (  2 /  3) in 'System.ByteOrder'
+  Missing documentation for:
+    Module header
+Documentation created:
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/byteorder/index.html,
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/byteorder/byteorder.txt
+Installing library in /Users/masa/.stack/snapshots/x86_64-osx/lts-13.0/8.6.3/lib/x86_64-osx-ghc-8.6.3/byteorder-1.0.4-IVStE0plZAH4UpHo5zwztw
+Registering library for byteorder-1.0.4..

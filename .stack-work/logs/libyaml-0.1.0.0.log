@@ -1,0 +1,28 @@
+Configuring libyaml-0.1.0.0...
+Preprocessing library for libyaml-0.1.0.0..
+Building library for libyaml-0.1.0.0..
+[1 of 2] Compiling Paths_libyaml    ( .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/autogen/Paths_libyaml.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Paths_libyaml.o )
+[2 of 2] Compiling Text.Libyaml     ( src/Text/Libyaml.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Text/Libyaml.o )
+Preprocessing library for libyaml-0.1.0.0..
+Running Haddock on library for libyaml-0.1.0.0..
+Haddock coverage:
+Warning: 'rawOpenFlags' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'openMode' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+  72% ( 18 / 25) in 'Text.Libyaml'
+  Missing documentation for:
+    Event (src/Text/Libyaml.hs:67)
+    Tag (src/Text/Libyaml.hs:112)
+    AnchorName (src/Text/Libyaml.hs:124)
+    Anchor (src/Text/Libyaml.hs:125)
+    encode (src/Text/Libyaml.hs:686)
+    encodeFile (src/Text/Libyaml.hs:707)
+    YamlException (src/Text/Libyaml.hs:767)
+Documentation created:
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/libyaml/index.html,
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/libyaml/libyaml.txt
+Installing library in /Users/masa/.stack/snapshots/x86_64-osx/lts-13.0/8.6.3/lib/x86_64-osx-ghc-8.6.3/libyaml-0.1.0.0-AXPEpK7elrEzVHQVY4pao
+Registering library for libyaml-0.1.0.0..

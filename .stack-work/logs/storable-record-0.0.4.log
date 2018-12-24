@@ -1,0 +1,47 @@
+Configuring storable-record-0.0.4...
+Preprocessing library for storable-record-0.0.4..
+Building library for storable-record-0.0.4..
+[1 of 7] Compiling Foreign.Storable.FixedArray ( src/Foreign/Storable/FixedArray.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Foreign/Storable/FixedArray.o )
+[2 of 7] Compiling Foreign.Storable.Newtype ( src/Foreign/Storable/Newtype.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Foreign/Storable/Newtype.o )
+[3 of 7] Compiling Foreign.Storable.Record ( src/Foreign/Storable/Record.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Foreign/Storable/Record.o )
+[4 of 7] Compiling Foreign.Storable.RecordMinimalSize ( src/Foreign/Storable/RecordMinimalSize.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Foreign/Storable/RecordMinimalSize.o )
+[5 of 7] Compiling Foreign.Storable.RecordReaderPtr ( src/Foreign/Storable/RecordReaderPtr.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Foreign/Storable/RecordReaderPtr.o )
+[6 of 7] Compiling Foreign.Storable.Traversable ( src/Foreign/Storable/Traversable.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Foreign/Storable/Traversable.o )
+[7 of 7] Compiling Foreign.Storable.TraversableUnequalSizes ( src/Foreign/Storable/TraversableUnequalSizes.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Foreign/Storable/TraversableUnequalSizes.o )
+Preprocessing library for storable-record-0.0.4..
+Running Haddock on library for storable-record-0.0.4..
+Haddock coverage:
+   0% (  0 /  6) in 'Foreign.Storable.FixedArray'
+  Missing documentation for:
+    Module header
+    roundUp (src/Foreign/Storable/FixedArray.hs:12)
+    sizeOfArray (src/Foreign/Storable/FixedArray.hs:16)
+    pokeNext (src/Foreign/Storable/FixedArray.hs:21)
+    peekNext (src/Foreign/Storable/FixedArray.hs:29)
+    run (src/Foreign/Storable/FixedArray.hs:36)
+  20% (  1 /  5) in 'Foreign.Storable.Newtype'
+  Missing documentation for:
+    sizeOf (src/Foreign/Storable/Newtype.hs:23)
+    alignment (src/Foreign/Storable/Newtype.hs:26)
+    peek (src/Foreign/Storable/Newtype.hs:30)
+    poke (src/Foreign/Storable/Newtype.hs:35)
+  11% (  1 /  9) in 'Foreign.Storable.Record'
+  Missing documentation for:
+    Dictionary (src/Foreign/Storable/Record.hs:82)
+    Access (src/Foreign/Storable/Record.hs:89)
+    element (src/Foreign/Storable/Record.hs:146)
+    run (src/Foreign/Storable/Record.hs:161)
+    alignment (src/Foreign/Storable/Record.hs:169)
+    sizeOf (src/Foreign/Storable/Record.hs:174)
+    peek (src/Foreign/Storable/Record.hs:179)
+    poke (src/Foreign/Storable/Record.hs:184)
+  50% (  3 /  6) in 'Foreign.Storable.Traversable'
+  Missing documentation for:
+    alignment (src/Foreign/Storable/Traversable.hs:63)
+    sizeOf (src/Foreign/Storable/Traversable.hs:69)
+    poke (src/Foreign/Storable/Traversable.hs:118)
+Documentation created:
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/storable-record/index.html,
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/storable-record/storable-record.txt
+Installing library in /Users/masa/.stack/snapshots/x86_64-osx/lts-13.0/8.6.3/lib/x86_64-osx-ghc-8.6.3/storable-record-0.0.4-AApfvd00k1C45RKpXy8gVb
+Registering library for storable-record-0.0.4..

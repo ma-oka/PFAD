@@ -1,0 +1,13 @@
+Configuring mmap-0.5.9...
+Preprocessing library for mmap-0.5.9..
+Building library for mmap-0.5.9..
+[1 of 1] Compiling System.IO.MMap   ( System/IO/MMap.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/System/IO/MMap.o )
+Preprocessing library for mmap-0.5.9..
+Running Haddock on library for mmap-0.5.9..
+Haddock coverage:
+ 100% ( 13 / 13) in 'System.IO.MMap'
+Documentation created:
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/mmap/index.html,
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/mmap/mmap.txt
+Installing library in /Users/masa/.stack/snapshots/x86_64-osx/lts-13.0/8.6.3/lib/x86_64-osx-ghc-8.6.3/mmap-0.5.9-BXMYRGD0Ckq9xaZJXGHtu5
+Registering library for mmap-0.5.9..

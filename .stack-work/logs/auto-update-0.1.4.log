@@ -1,0 +1,24 @@
+Configuring auto-update-0.1.4...
+Preprocessing library for auto-update-0.1.4..
+Building library for auto-update-0.1.4..
+[1 of 4] Compiling Control.AutoUpdate ( Control/AutoUpdate.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Control/AutoUpdate.o )
+[2 of 4] Compiling Control.AutoUpdate.Util ( Control/AutoUpdate/Util.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Control/AutoUpdate/Util.o )
+[3 of 4] Compiling Control.Debounce ( Control/Debounce.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Control/Debounce.o )
+[4 of 4] Compiling Control.Reaper   ( Control/Reaper.hs, .stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/Control/Reaper.o )
+Preprocessing library for auto-update-0.1.4..
+Running Haddock on library for auto-update-0.1.4..
+Haddock coverage:
+Warning: 'IORef' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+Warning: 'getCurrentTime' is out of scope.
+    If you qualify the identifier, haddock can try to link it
+    it anyway.
+ 100% ( 11 / 11) in 'Control.AutoUpdate'
+ 100% (  9 /  9) in 'Control.Debounce'
+ 100% ( 18 / 18) in 'Control.Reaper'
+Documentation created:
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/auto-update/index.html,
+.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/doc/html/auto-update/auto-update.txt
+Installing library in /Users/masa/.stack/snapshots/x86_64-osx/lts-13.0/8.6.3/lib/x86_64-osx-ghc-8.6.3/auto-update-0.1.4-JkSw4eg9S3X18mq8pcespF
+Registering library for auto-update-0.1.4..
